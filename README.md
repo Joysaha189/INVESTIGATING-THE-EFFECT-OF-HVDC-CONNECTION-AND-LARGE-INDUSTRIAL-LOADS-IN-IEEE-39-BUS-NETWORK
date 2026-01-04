@@ -48,17 +48,13 @@ The study analyzes the base case system and then investigates the effects of int
 
 * **Industrial Load:**
 
-
-
-&nbsp; * Ten induction motors (100 MVA each) connected at Bus 23
+    &nbsp; * Ten induction motors (100 MVA each) connected at Bus 23
 
 * **Reactive Power Compensation:\*\*
 
+    &nbsp; * Static VAR Compensator (SVC)
 
-
-&nbsp; * Static VAR Compensator (SVC)
-
-&nbsp; * Shunt capacitor banks
+    &nbsp; * Shunt capacitor banks
 
 
 
