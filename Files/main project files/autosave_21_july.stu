@@ -1,0 +1,1161 @@
+<[GENERAL_STUDY]>
+
+[NETWORK_FILE_NAME]
+D:\EEE 3-1\EEE 306\PROJECT\UPDAT1 - COPY (2) - COPY\AUTOSAVE_21_JULY.NWT
+
+[STUDY_NAME]
+UNTITLED
+
+[PARAMETERS]
+// Version,	Base Power,	Freq,	Sub Title
+125,	100,	50,	UNTITLED
+
+<[END_GENERAL_STUDY]>
+
+
+
+<[EXTENSION_STUDY]>
+
+
+[Shunt Capacitor Dynamic Model]
+//*ID,	Status,	Shunt ID
+C1,	ON,	NONE
+C2,	ON,	NONE
+C3,	ON,	NONE
+C4,	ON,	NONE
+C5,	ON,	NONE
+C6,	ON,	NONE
+C7,	ON,	NONE
+C8,	ON,	NONE
+C9,	ON,	NONE
+
+
+[Capacitor Protective Device Extension]
+//*ID,	Status,	From Data Active
+C1,	ON,	{}
+C2,	ON,	{}
+C3,	ON,	{}
+C4,	ON,	{}
+C5,	ON,	{}
+C6,	ON,	{}
+C7,	ON,	{}
+C8,	ON,	{}
+C9,	ON,	{}
+
+
+[Load Protective Device Extension]
+//*ID,	Status,	From Data Active
+S20,	ON,	{}
+S21,	ON,	{}
+S31,	ON,	{}
+S12,	ON,	{}
+S03,	ON,	{}
+S23,	ON,	{}
+S04,	ON,	{}
+S24,	ON,	{}
+S15,	ON,	{}
+S25,	ON,	{}
+S16,	ON,	{}
+S26,	ON,	{}
+S07,	ON,	{}
+S27,	ON,	{}
+S08,	ON,	{}
+S18,	ON,	{}
+S28,	ON,	{}
+S29,	ON,	{}
+S39,	ON,	{}
+
+
+[Load Dynamic Model]
+//*ID,	Shunt ID,	Dynamic Selection,	User def. nP,	User def. nQ,	User def. Pfreq,	User def. Qfreq,	User def. Vth
+S20,	NONE,	Global Parameters,	1,	1,	0,	0,	0.5
+S21,	NONE,	Global Parameters,	1,	1,	0,	0,	0.5
+S31,	NONE,	Global Parameters,	1,	1,	0,	0,	0.5
+S12,	NONE,	Global Parameters,	1,	1,	0,	0,	0.5
+S03,	NONE,	Global Parameters,	1,	1,	0,	0,	0.5
+S23,	NONE,	Global Parameters,	1,	1,	0,	0,	0.5
+S04,	NONE,	Global Parameters,	1,	1,	0,	0,	0.5
+S24,	NONE,	Global Parameters,	1,	1,	0,	0,	0.5
+S15,	NONE,	Global Parameters,	1,	1,	0,	0,	0.5
+S25,	NONE,	Global Parameters,	1,	1,	0,	0,	0.5
+S16,	NONE,	Global Parameters,	1,	1,	0,	0,	0.5
+S26,	NONE,	Global Parameters,	1,	1,	0,	0,	0.5
+S07,	NONE,	Global Parameters,	1,	1,	0,	0,	0.5
+S27,	NONE,	Global Parameters,	1,	1,	0,	0,	0.5
+S08,	NONE,	Global Parameters,	1,	1,	0,	0,	0.5
+S18,	NONE,	Global Parameters,	1,	1,	0,	0,	0.5
+S28,	NONE,	Global Parameters,	1,	1,	0,	0,	0.5
+S29,	NONE,	Global Parameters,	1,	1,	0,	0,	0.5
+S39,	NONE,	Global Parameters,	1,	1,	0,	0,	0.5
+
+
+[TxVar Dynamic Model]
+//*ID,	Status,	Td,	Tds,	Tm,	Ctrl Prim,	Integration,	Inverse Time-Delay
+T_REC,	OFF,	0.2,	0.1,	0.1,	OFF,	ON,	OFF
+T_INV,	OFF,	0.2,	0.1,	0.1,	OFF,	ON,	OFF
+
+
+[Line Protective Device Extension]
+//*ID,	Status,	From Data Active,	Reverse To TCC,	To Data Active
+L10,	ON,	{},	0,	{}
+L20,	ON,	{},	0,	{}
+L30,	ON,	{},	0,	{}
+L11,	ON,	{},	0,	{}
+L21,	ON,	{},	0,	{}
+L31,	ON,	{},	0,	{}
+L01,	ON,	{},	0,	{}
+L12,	ON,	{},	0,	{}
+L22,	ON,	{},	0,	{}
+L32,	ON,	{},	0,	{}
+L02,	ON,	{},	0,	{}
+L13,	ON,	{},	0,	{}
+L23,	ON,	{},	0,	{}
+L33,	ON,	{},	0,	{}
+L03,	ON,	{},	0,	{}
+L14,	ON,	{},	0,	{}
+L24,	ON,	{},	0,	{}
+L34,	ON,	{},	0,	{}
+L04,	ON,	{},	0,	{}
+L15,	ON,	{},	0,	{}
+L25,	ON,	{},	0,	{}
+L05,	ON,	{},	0,	{}
+L16,	ON,	{},	0,	{}
+L26,	ON,	{},	0,	{}
+L06,	ON,	{},	0,	{}
+L17,	ON,	{},	0,	{}
+L27,	ON,	{},	0,	{}
+L07,	ON,	{},	0,	{}
+L18,	ON,	{},	0,	{}
+L28,	ON,	{},	0,	{}
+L08,	ON,	{},	0,	{}
+L19,	ON,	{},	0,	{}
+L29,	ON,	{},	0,	{}
+L09,	ON,	{},	0,	{}
+
+
+[Svc Protective Device Extension]
+//*ID,	Status,	From Data Active
+SVC06,	ON,	{}
+SVC07,	ON,	{}
+SVC04,	ON,	{}
+SVC05,	ON,	{}
+SVC02,	ON,	{}
+SVC12,	ON,	{}
+SVC03,	ON,	{}
+SVC13,	ON,	{}
+SVC10,	ON,	{}
+SVC01,	ON,	{}
+SVC11,	ON,	{}
+SVC08,	ON,	{}
+SVC09,	ON,	{}
+S0,	ON,	{}
+
+
+[Tx Fix Protective Device Extension]
+//*ID,	Status,	From Data Active,	Reverse To TCC,	To Data Active
+T10,	ON,	{},	0,	{}
+T01,	ON,	{},	0,	{}
+T11,	ON,	{},	0,	{}
+T02,	ON,	{},	0,	{}
+T12,	ON,	{},	0,	{}
+T03,	ON,	{},	0,	{}
+T04,	ON,	{},	0,	{}
+T05,	ON,	{},	0,	{}
+T06,	ON,	{},	0,	{}
+T07,	ON,	{},	0,	{}
+T08,	ON,	{},	0,	{}
+T09,	ON,	{},	0,	{}
+
+
+[Bus OPF Model]
+//*ID,	Normal V min,	Normal V max,	Emer V min,	Emer V max
+B39_REC,	0.9,	1.1,	0.9,	1.1
+B10,	0.9,	1.1,	0.9,	1.1
+B20,	0.9,	1.1,	0.9,	1.1
+B30,	0.9,	1.1,	0.9,	1.1
+B01,	0.9,	1.1,	0.9,	1.1
+B11,	0.9,	1.1,	0.9,	1.1
+B21,	0.9,	1.1,	0.9,	1.1
+B31,	0.9,	1.1,	0.9,	1.1
+B12,	0.9,	1.1,	0.9,	1.1
+B22,	0.9,	1.1,	0.9,	1.1
+B32,	0.9,	1.1,	0.9,	1.1
+B02,	0.9,	1.1,	0.9,	1.1
+B13,	0.9,	1.1,	0.9,	1.1
+B23,	0.9,	1.1,	0.9,	1.1
+B33,	0.9,	1.1,	0.9,	1.1
+B03,	0.9,	1.1,	0.9,	1.1
+B14,	0.9,	1.1,	0.9,	1.1
+B24,	0.9,	1.1,	0.9,	1.1
+B34,	0.9,	1.1,	0.9,	1.1
+B04,	0.9,	1.1,	0.9,	1.1
+B15,	0.9,	1.1,	0.9,	1.1
+B25,	0.9,	1.1,	0.9,	1.1
+B35,	0.9,	1.1,	0.9,	1.1
+B05,	0.9,	1.1,	0.9,	1.1
+B16,	0.9,	1.1,	0.9,	1.1
+B26,	0.9,	1.1,	0.9,	1.1
+B36,	0.9,	1.1,	0.9,	1.1
+B06,	0.9,	1.1,	0.9,	1.1
+B17,	0.9,	1.1,	0.9,	1.1
+B27,	0.9,	1.1,	0.9,	1.1
+B37,	0.9,	1.1,	0.9,	1.1
+B07,	0.9,	1.1,	0.9,	1.1
+B18,	0.9,	1.1,	0.9,	1.1
+B28,	0.9,	1.1,	0.9,	1.1
+B38,	0.9,	1.1,	0.9,	1.1
+B08,	0.9,	1.1,	0.9,	1.1
+B19,	0.9,	1.1,	0.9,	1.1
+B29,	0.9,	1.1,	0.9,	1.1
+B39,	0.9,	1.1,	0.9,	1.1
+B09,	0.9,	1.1,	0.9,	1.1
+B9_INV,	0.9,	1.1,	0.9,	1.1
+
+
+[Gener OPF Model]
+//*IDDispatch status,	Cost curve table id,	Pgen Min,	Pgen max,	Pgen cost curve type
+G10,	OFF,	NONE,	0,	1000,	POLYNOMIAL_EXPONENTIAL
+G01,	OFF,	NONE,	0,	1000,	POLYNOMIAL_EXPONENTIAL
+G02,	OFF,	NONE,	0,	1000,	POLYNOMIAL_EXPONENTIAL
+G03,	OFF,	NONE,	0,	1000,	POLYNOMIAL_EXPONENTIAL
+G04,	OFF,	NONE,	0,	1000,	POLYNOMIAL_EXPONENTIAL
+G05,	OFF,	NONE,	0,	1000,	POLYNOMIAL_EXPONENTIAL
+G06,	OFF,	NONE,	0,	1000,	POLYNOMIAL_EXPONENTIAL
+G07,	OFF,	NONE,	0,	1000,	POLYNOMIAL_EXPONENTIAL
+G08,	OFF,	NONE,	0,	1000,	POLYNOMIAL_EXPONENTIAL
+G09,	OFF,	NONE,	0,	1000,	POLYNOMIAL_EXPONENTIAL
+
+
+[Tx Var Protective Device Extension]
+//*ID,	Status,	From Data Active,	Reverse To TCC,	To Data Active
+T_REC,	ON,	{},	0,	{}
+T_INV,	ON,	{},	0,	{}
+
+
+[Load OPF Model]
+//*IDDispatch status,	Cost curve table id
+S20,	OFF,	DEF_VALUES
+S21,	OFF,	DEF_VALUES
+S31,	OFF,	DEF_VALUES
+S12,	OFF,	DEF_VALUES
+S03,	OFF,	DEF_VALUES
+S23,	OFF,	DEF_VALUES
+S04,	OFF,	DEF_VALUES
+S24,	OFF,	DEF_VALUES
+S15,	OFF,	DEF_VALUES
+S25,	OFF,	DEF_VALUES
+S16,	OFF,	DEF_VALUES
+S26,	OFF,	DEF_VALUES
+S07,	OFF,	DEF_VALUES
+S27,	OFF,	DEF_VALUES
+S08,	OFF,	DEF_VALUES
+S18,	OFF,	DEF_VALUES
+S28,	OFF,	DEF_VALUES
+S29,	OFF,	DEF_VALUES
+S39,	OFF,	DEF_VALUES
+
+
+[Line OPF Model]
+//*IDDispatch status,	React  Max,	React Cost Scale,	Max Normal,	Min Normal,	Flow type,	Apply Flow Constraint
+L10,	OFF,	50,	1,	100,	-100,	MW,	0
+L20,	OFF,	50,	1,	100,	-100,	MW,	0
+L30,	OFF,	50,	1,	100,	-100,	MW,	0
+L11,	OFF,	50,	1,	100,	-100,	MW,	0
+L21,	OFF,	50,	1,	100,	-100,	MW,	0
+L31,	OFF,	50,	1,	100,	-100,	MW,	0
+L01,	OFF,	50,	1,	100,	-100,	MW,	0
+L12,	OFF,	50,	1,	100,	-100,	MW,	0
+L22,	OFF,	50,	1,	100,	-100,	MW,	0
+L32,	OFF,	50,	1,	100,	-100,	MW,	0
+L02,	OFF,	50,	1,	100,	-100,	MW,	0
+L13,	OFF,	50,	1,	100,	-100,	MW,	0
+L23,	OFF,	50,	1,	100,	-100,	MW,	0
+L33,	OFF,	50,	1,	100,	-100,	MW,	0
+L03,	OFF,	50,	1,	100,	-100,	MW,	0
+L14,	OFF,	50,	1,	100,	-100,	MW,	0
+L24,	OFF,	50,	1,	100,	-100,	MW,	0
+L34,	OFF,	50,	1,	100,	-100,	MW,	0
+L04,	OFF,	50,	1,	100,	-100,	MW,	0
+L15,	OFF,	50,	1,	100,	-100,	MW,	0
+L25,	OFF,	50,	1,	100,	-100,	MW,	0
+L05,	OFF,	50,	1,	100,	-100,	MW,	0
+L16,	OFF,	50,	1,	100,	-100,	MW,	0
+L26,	OFF,	50,	1,	100,	-100,	MW,	0
+L06,	OFF,	50,	1,	100,	-100,	MW,	0
+L17,	OFF,	50,	1,	100,	-100,	MW,	0
+L27,	OFF,	50,	1,	100,	-100,	MW,	0
+L07,	OFF,	50,	1,	100,	-100,	MW,	0
+L18,	OFF,	50,	1,	100,	-100,	MW,	0
+L28,	OFF,	50,	1,	100,	-100,	MW,	0
+L08,	OFF,	50,	1,	100,	-100,	MW,	0
+L19,	OFF,	50,	1,	100,	-100,	MW,	0
+L29,	OFF,	50,	1,	100,	-100,	MW,	0
+L09,	OFF,	50,	1,	100,	-100,	MW,	0
+
+
+[Series Reactor Protective Device Extension]
+//*ID,	Status,	From Data Active,	Reverse To TCC,	To Data Active
+SR,	ON,	{},	0,	{}
+
+
+[Generator VS Model]
+//*ID,	Status,	PMax,	PMin,	H,	D,	R
+G10,	ON,	1000,	0,	4,	0,	1
+G01,	ON,	1000,	0,	4,	0,	1
+G02,	ON,	1000,	0,	4,	0,	1
+G03,	ON,	1000,	0,	4,	0,	1
+G04,	ON,	1000,	0,	4,	0,	1
+G05,	ON,	1000,	0,	4,	0,	1
+G06,	ON,	1000,	0,	4,	0,	1
+G07,	ON,	1000,	0,	4,	0,	1
+G08,	ON,	1000,	0,	4,	0,	1
+G09,	ON,	1000,	0,	4,	0,	1
+
+
+[Harmonic Facts Model]
+//*ID,	I Src IdModel
+Fa,	
+
+
+[Bus AF Model]
+//*ID,	IsInAWorkplace,	BusGapIn,	WorkingDistanceIn,	ConnectedEquipType,	ExposedCircuitType,	BusID,	UseUserDefBaultFaultCur,	UserDefBaultFaultCur
+B39_REC,	1,	0.511811,	18,	3,	0,	B39_REC,	0,	10
+B10,	1,	0.511811,	18,	3,	0,	B10,	0,	10
+B20,	1,	0.511811,	18,	3,	0,	B20,	0,	10
+B30,	1,	0.511811,	18,	3,	0,	B30,	0,	10
+B01,	1,	0.511811,	18,	3,	0,	B01,	0,	10
+B11,	1,	0.511811,	18,	3,	0,	B11,	0,	10
+B21,	1,	0.511811,	18,	3,	0,	B21,	0,	10
+B31,	1,	0.511811,	18,	3,	0,	B31,	0,	10
+B12,	1,	0.511811,	18,	3,	0,	B12,	0,	10
+B22,	1,	0.511811,	18,	3,	0,	B22,	0,	10
+B32,	1,	0.511811,	18,	3,	0,	B32,	0,	10
+B02,	1,	0.511811,	18,	3,	0,	B02,	0,	10
+B13,	1,	0.511811,	18,	3,	0,	B13,	0,	10
+B23,	1,	0.511811,	18,	3,	0,	B23,	0,	10
+B33,	1,	0.511811,	18,	3,	0,	B33,	0,	10
+B03,	1,	0.511811,	18,	3,	0,	B03,	0,	10
+B14,	1,	0.511811,	18,	3,	0,	B14,	0,	10
+B24,	1,	0.511811,	18,	3,	0,	B24,	0,	10
+B34,	1,	0.511811,	18,	3,	0,	B34,	0,	10
+B04,	1,	0.511811,	18,	3,	0,	B04,	0,	10
+B15,	1,	0.511811,	18,	3,	0,	B15,	0,	10
+B25,	1,	0.511811,	18,	3,	0,	B25,	0,	10
+B35,	1,	0.511811,	18,	3,	0,	B35,	0,	10
+B05,	1,	0.511811,	18,	3,	0,	B05,	0,	10
+B16,	1,	0.511811,	18,	3,	0,	B16,	0,	10
+B26,	1,	0.511811,	18,	3,	0,	B26,	0,	10
+B36,	1,	0.511811,	18,	3,	0,	B36,	0,	10
+B06,	1,	0.511811,	18,	3,	0,	B06,	0,	10
+B17,	1,	0.511811,	18,	3,	0,	B17,	0,	10
+B27,	1,	0.511811,	18,	3,	0,	B27,	0,	10
+B37,	1,	0.511811,	18,	3,	0,	B37,	0,	10
+B07,	1,	0.511811,	18,	3,	0,	B07,	0,	10
+B18,	1,	0.511811,	18,	3,	0,	B18,	0,	10
+B28,	1,	0.511811,	18,	3,	0,	B28,	0,	10
+B38,	1,	0.511811,	18,	3,	0,	B38,	0,	10
+B08,	1,	0.511811,	18,	3,	0,	B08,	0,	10
+B19,	1,	0.511811,	18,	3,	0,	B19,	0,	10
+B29,	1,	0.511811,	18,	3,	0,	B29,	0,	10
+B39,	1,	0.511811,	18,	3,	0,	B39,	0,	10
+B09,	1,	0.511811,	18,	3,	0,	B09,	0,	10
+B9_INV,	1,	0.511811,	18,	3,	0,	B9_INV,	0,	10
+
+
+[Synchronous Motor Load Characteristics]
+//*ID,	inertia,	Slip1,	Torque1,	Slip2,	Torque2,	Slip3,	Torque3,	Slip4,	Torque4,	Slip5,	Torque5,	Capac kVar,	speed limit,	volt limit,	time limit,	Time1,	R1,	I1,	Time2,	R2,	I2,	Time3,	R3,	I3,	Time4,	R4,	I4,	Time5,	R5,	I5,	A0,	A1,	A2,	A3,	TorqueSlipCurve,	TorqueUnit,	SlipUnit,	AutoXmer MVA,	AutoXmer kV,	AutoXmer Z,	AutoXmer XR,	Trans. Scheme,	Tap Pos1, Application1, %%Znom1, Transition1, ...4,	Time 1, Res 1, ...4,	T1,	T2,	T3,	Rser,	Trans. Scheme,	IRatedMultiplier,	{Speed@@Current@@PF@@Te@@Tm}@@{...}
+SM1,	100,	0,	0,	0.25,	0,	0.5,	0,	0.75,	0,	1,	0,	100,	100,	100,	5,	0,	1,	1,	0,	1,	1,	0,	1,	1,	0,	1,	1,	0,	1,	1,	1,	0,	0,	0,	0,	2,	0,	1,	4.16,	0.1,	20,	0,	1,	1,	100,	1,	1,	1,	100,	1,	1,	1,	100,	1,	1,	1,	100,	1,	1,	4,	2,	3,	3,	2,	4,	1,	0,	1,	2,	1,	0,	1,	{0@@0@@0@@0@@0}
+
+
+[Harmonic Load Model]
+//*ID,	Model,	CONNECTION
+S20,	1,	Yg
+S21,	1,	Yg
+S31,	1,	Yg
+S12,	1,	Yg
+S03,	1,	Yg
+S23,	1,	Yg
+S04,	1,	Yg
+S24,	1,	Yg
+S15,	1,	Yg
+S25,	1,	Yg
+S16,	1,	Yg
+S26,	1,	Yg
+S07,	1,	Yg
+S27,	1,	Yg
+S08,	1,	Yg
+S18,	1,	Yg
+S28,	1,	Yg
+S29,	1,	Yg
+S39,	1,	Yg
+
+
+[Induction Motor Load Characteristics]
+//*ID,	inertia,	Slip1,	Torque1,	Slip2,	Torque2,	Slip3,	Torque3,	Slip4,	Torque4,	Slip5,	Torque5,	Capac kVar,	speed limit,	volt limit,	time limit,	Time1,	R1,	I1,	Time2,	R2,	I2,	Time3,	R3,	I3,	Time4,	R4,	I4,	Time5,	R5,	I5,	A0,	A1,	A2,	A3,	TorqueSlipCurve,	TorqueUnit,	SlipUnit,	AutoXmer MVA,	AutoXmer kV,	AutoXmer Z,	AutoXmer XR,	Trans. Scheme,	Tap Pos1, Application1, %%Znom1, Transition1, ...4,	Time 1, Res 1, ...4,	T1,	T2,	T3,	Rser,	Trans. Scheme,	IRatedMultiplier,	{Speed@@Current@@PF@@Te@@Tm}@@{...}
+IM1,	100,	0,	0,	0.25,	0,	0.5,	0,	0.75,	0,	1,	0,	100,	100,	100,	5,	0,	1,	1,	0,	1,	1,	0,	1,	1,	0,	1,	1,	0,	1,	1,	1,	0,	0,	0,	0,	2,	0,	1,	4.16,	0.1,	20,	0,	1,	1,	100,	1,	1,	1,	100,	1,	1,	1,	100,	1,	1,	1,	100,	1,	1,	4,	2,	3,	3,	2,	4,	1,	0,	1,	2,	1,	0,	1,	{0@@0@@0@@0@@0}
+
+
+[Harmonic Induction Model]
+//*ID,	Model
+IM1,	1
+
+
+[Harmonic Generator]
+//*ID,	Apply Skin Effect
+G10,	0
+G01,	0
+G02,	0
+G03,	0
+G04,	0
+G05,	0
+G06,	0
+G07,	0
+G08,	0
+G09,	0
+
+
+[Generator Dynamic Model]
+//*ID,	Status,	Model,	Exciter Status,	Exciter ID,	Turbine Status,	Turbine ID,	Stabilizer Status,	Stabilizer ID
+G10,	ON,	1,	OFF,	NONE,	OFF,	NONE,	OFF,	NONE
+G01,	ON,	1,	OFF,	NONE,	OFF,	NONE,	OFF,	NONE
+G02,	ON,	1,	OFF,	NONE,	OFF,	NONE,	OFF,	NONE
+G03,	ON,	1,	OFF,	NONE,	OFF,	NONE,	OFF,	NONE
+G04,	ON,	1,	OFF,	NONE,	OFF,	NONE,	OFF,	NONE
+G05,	ON,	1,	OFF,	NONE,	OFF,	NONE,	OFF,	NONE
+G06,	ON,	1,	OFF,	NONE,	OFF,	NONE,	OFF,	NONE
+G07,	ON,	1,	OFF,	NONE,	OFF,	NONE,	OFF,	NONE
+G08,	ON,	1,	OFF,	NONE,	OFF,	NONE,	OFF,	NONE
+G09,	ON,	1,	OFF,	NONE,	OFF,	NONE,	OFF,	NONE
+
+
+[Harmonic Line Model]
+//*ID,	Model,	Skin
+L10,	1,	0
+L20,	1,	0
+L30,	1,	0
+L11,	1,	0
+L21,	1,	0
+L31,	1,	0
+L01,	1,	0
+L12,	1,	0
+L22,	1,	0
+L32,	1,	0
+L02,	1,	0
+L13,	1,	0
+L23,	1,	0
+L33,	1,	0
+L03,	1,	0
+L14,	1,	0
+L24,	1,	0
+L34,	1,	0
+L04,	1,	0
+L15,	1,	0
+L25,	1,	0
+L05,	1,	0
+L16,	1,	0
+L26,	1,	0
+L06,	1,	0
+L17,	1,	0
+L27,	1,	0
+L07,	1,	0
+L18,	1,	0
+L28,	1,	0
+L08,	1,	0
+L19,	1,	0
+L29,	1,	0
+L09,	1,	0
+
+
+[Line Dynamic Model]
+//*ID,	Status,	Send. end Power Swing Status,	Send. end Power Swing ID,	Series Cap. Status,	Capac. Reinsertion time,	Shorted capacitor current value,	Send. end Imp. Relay Status,	Send. end Imp. Relay ID,	Rec. end Power Swing Status,	Rec. end Power Swing ID,	Rec. end Imp. Relay Status,	Rec. end Imp. Relay IDSPSW R,	SPSW X,	SPSW B
+L10,	ON,	OFF,	NONE,	OFF,	5,	300,	OFF,	NONE,	OFF,	NONE,	OFF,	NONE,	0,	0.0001,	0
+L20,	ON,	OFF,	NONE,	OFF,	5,	300,	OFF,	NONE,	OFF,	NONE,	OFF,	NONE,	0,	0.0001,	0
+L30,	ON,	OFF,	NONE,	OFF,	5,	300,	OFF,	NONE,	OFF,	NONE,	OFF,	NONE,	0,	0.0001,	0
+L11,	ON,	OFF,	NONE,	OFF,	5,	300,	OFF,	NONE,	OFF,	NONE,	OFF,	NONE,	0,	0.0001,	0
+L21,	ON,	OFF,	NONE,	OFF,	5,	300,	OFF,	NONE,	OFF,	NONE,	OFF,	NONE,	0,	0.0001,	0
+L31,	ON,	OFF,	NONE,	OFF,	5,	300,	OFF,	NONE,	OFF,	NONE,	OFF,	NONE,	0,	0.0001,	0
+L01,	ON,	OFF,	NONE,	OFF,	5,	300,	OFF,	NONE,	OFF,	NONE,	OFF,	NONE,	0,	0.0001,	0
+L12,	ON,	OFF,	NONE,	OFF,	5,	300,	OFF,	NONE,	OFF,	NONE,	OFF,	NONE,	0,	0.0001,	0
+L22,	ON,	OFF,	NONE,	OFF,	5,	300,	OFF,	NONE,	OFF,	NONE,	OFF,	NONE,	0,	0.0001,	0
+L32,	ON,	OFF,	NONE,	OFF,	5,	300,	OFF,	NONE,	OFF,	NONE,	OFF,	NONE,	0,	0.0001,	0
+L02,	ON,	OFF,	NONE,	OFF,	5,	300,	OFF,	NONE,	OFF,	NONE,	OFF,	NONE,	0,	0.0001,	0
+L13,	ON,	OFF,	NONE,	OFF,	5,	300,	OFF,	NONE,	OFF,	NONE,	OFF,	NONE,	0,	0.0001,	0
+L23,	ON,	OFF,	NONE,	OFF,	5,	300,	OFF,	NONE,	OFF,	NONE,	OFF,	NONE,	0,	0.0001,	0
+L33,	ON,	OFF,	NONE,	OFF,	5,	300,	OFF,	NONE,	OFF,	NONE,	OFF,	NONE,	0,	0.0001,	0
+L03,	ON,	OFF,	NONE,	OFF,	5,	300,	OFF,	NONE,	OFF,	NONE,	OFF,	NONE,	0,	0.0001,	0
+L14,	ON,	OFF,	NONE,	OFF,	5,	300,	OFF,	NONE,	OFF,	NONE,	OFF,	NONE,	0,	0.0001,	0
+L24,	ON,	OFF,	NONE,	OFF,	5,	300,	OFF,	NONE,	OFF,	NONE,	OFF,	NONE,	0,	0.0001,	0
+L34,	ON,	OFF,	NONE,	OFF,	5,	300,	OFF,	NONE,	OFF,	NONE,	OFF,	NONE,	0,	0.0001,	0
+L04,	ON,	OFF,	NONE,	OFF,	5,	300,	OFF,	NONE,	OFF,	NONE,	OFF,	NONE,	0,	0.0001,	0
+L15,	ON,	OFF,	NONE,	OFF,	5,	300,	OFF,	NONE,	OFF,	NONE,	OFF,	NONE,	0,	0.0001,	0
+L25,	ON,	OFF,	NONE,	OFF,	5,	300,	OFF,	NONE,	OFF,	NONE,	OFF,	NONE,	0,	0.0001,	0
+L05,	ON,	OFF,	NONE,	OFF,	5,	300,	OFF,	NONE,	OFF,	NONE,	OFF,	NONE,	0,	0.0001,	0
+L16,	ON,	OFF,	NONE,	OFF,	5,	300,	OFF,	NONE,	OFF,	NONE,	OFF,	NONE,	0,	0.0001,	0
+L26,	ON,	OFF,	NONE,	OFF,	5,	300,	OFF,	NONE,	OFF,	NONE,	OFF,	NONE,	0,	0.0001,	0
+L06,	ON,	OFF,	NONE,	OFF,	5,	300,	OFF,	NONE,	OFF,	NONE,	OFF,	NONE,	0,	0.0001,	0
+L17,	ON,	OFF,	NONE,	OFF,	5,	300,	OFF,	NONE,	OFF,	NONE,	OFF,	NONE,	0,	0.0001,	0
+L27,	ON,	OFF,	NONE,	OFF,	5,	300,	OFF,	NONE,	OFF,	NONE,	OFF,	NONE,	0,	0.0001,	0
+L07,	ON,	OFF,	NONE,	OFF,	5,	300,	OFF,	NONE,	OFF,	NONE,	OFF,	NONE,	0,	0.0001,	0
+L18,	ON,	OFF,	NONE,	OFF,	5,	300,	OFF,	NONE,	OFF,	NONE,	OFF,	NONE,	0,	0.0001,	0
+L28,	ON,	OFF,	NONE,	OFF,	5,	300,	OFF,	NONE,	OFF,	NONE,	OFF,	NONE,	0,	0.0001,	0
+L08,	ON,	OFF,	NONE,	OFF,	5,	300,	OFF,	NONE,	OFF,	NONE,	OFF,	NONE,	0,	0.0001,	0
+L19,	ON,	OFF,	NONE,	OFF,	5,	300,	OFF,	NONE,	OFF,	NONE,	OFF,	NONE,	0,	0.0001,	0
+L29,	ON,	OFF,	NONE,	OFF,	5,	300,	OFF,	NONE,	OFF,	NONE,	OFF,	NONE,	0,	0.0001,	0
+L09,	ON,	OFF,	NONE,	OFF,	5,	300,	OFF,	NONE,	OFF,	NONE,	OFF,	NONE,	0,	0.0001,	0
+
+
+[Harmonic Sync. Machine]
+//*ID,	Apply Skin Effect
+SM1,	0
+
+
+[Gener Protective Device Extension]
+//*ID,	Status,	From Data Active
+G10,	ON,	{}
+G01,	ON,	{}
+G02,	ON,	{}
+G03,	ON,	{}
+G04,	ON,	{}
+G05,	ON,	{}
+G06,	ON,	{}
+G07,	ON,	{}
+G08,	ON,	{}
+G09,	ON,	{}
+
+
+[Synchronous Motor Dynamic Model]
+//*ID,	Status,	Model,	Motor ID,	Speed reference,	Excitation voltage,	Field discharge resistor
+SM1,	ON,	1,	NONE,	0.95,	1.2,	0.3
+
+[Induction Motor Dynamic Model]
+//*ID,	Status,	Model,	Motor ID,	Skin effect
+IM1,	ON,	1,	NONE,	0
+
+
+[Sync Protective Device Extension]
+//*ID,	Status,	From Data Active
+SM1,	ON,	{}
+
+
+[Induct Protective Device Extension]
+//*ID,	Status,	From Data Active
+IM1,	ON,	{}
+
+
+[Bus Dynamic Model]
+//*ID,	Status,	Low Volt Status,	Low Volt ID,	Low Freq Status,	Low Freq ID,	Freq Droop Status,	Freq Droop ID
+B39_REC,	ON,	OFF,	NONE,	OFF,	NONE,	OFF,	NONE
+B10,	ON,	OFF,	NONE,	OFF,	NONE,	OFF,	NONE
+B20,	ON,	OFF,	NONE,	OFF,	NONE,	OFF,	NONE
+B30,	ON,	OFF,	NONE,	OFF,	NONE,	OFF,	NONE
+B01,	ON,	OFF,	NONE,	OFF,	NONE,	OFF,	NONE
+B11,	ON,	OFF,	NONE,	OFF,	NONE,	OFF,	NONE
+B21,	ON,	OFF,	NONE,	OFF,	NONE,	OFF,	NONE
+B31,	ON,	OFF,	NONE,	OFF,	NONE,	OFF,	NONE
+B12,	ON,	OFF,	NONE,	OFF,	NONE,	OFF,	NONE
+B22,	ON,	OFF,	NONE,	OFF,	NONE,	OFF,	NONE
+B32,	ON,	OFF,	NONE,	OFF,	NONE,	OFF,	NONE
+B02,	ON,	OFF,	NONE,	OFF,	NONE,	OFF,	NONE
+B13,	ON,	OFF,	NONE,	OFF,	NONE,	OFF,	NONE
+B23,	ON,	OFF,	NONE,	OFF,	NONE,	OFF,	NONE
+B33,	ON,	OFF,	NONE,	OFF,	NONE,	OFF,	NONE
+B03,	ON,	OFF,	NONE,	OFF,	NONE,	OFF,	NONE
+B14,	ON,	OFF,	NONE,	OFF,	NONE,	OFF,	NONE
+B24,	ON,	OFF,	NONE,	OFF,	NONE,	OFF,	NONE
+B34,	ON,	OFF,	NONE,	OFF,	NONE,	OFF,	NONE
+B04,	ON,	OFF,	NONE,	OFF,	NONE,	OFF,	NONE
+B15,	ON,	OFF,	NONE,	OFF,	NONE,	OFF,	NONE
+B25,	ON,	OFF,	NONE,	OFF,	NONE,	OFF,	NONE
+B35,	ON,	OFF,	NONE,	OFF,	NONE,	OFF,	NONE
+B05,	ON,	OFF,	NONE,	OFF,	NONE,	OFF,	NONE
+B16,	ON,	OFF,	NONE,	OFF,	NONE,	OFF,	NONE
+B26,	ON,	OFF,	NONE,	OFF,	NONE,	OFF,	NONE
+B36,	ON,	OFF,	NONE,	OFF,	NONE,	OFF,	NONE
+B06,	ON,	OFF,	NONE,	OFF,	NONE,	OFF,	NONE
+B17,	ON,	OFF,	NONE,	OFF,	NONE,	OFF,	NONE
+B27,	ON,	OFF,	NONE,	OFF,	NONE,	OFF,	NONE
+B37,	ON,	OFF,	NONE,	OFF,	NONE,	OFF,	NONE
+B07,	ON,	OFF,	NONE,	OFF,	NONE,	OFF,	NONE
+B18,	ON,	OFF,	NONE,	OFF,	NONE,	OFF,	NONE
+B28,	ON,	OFF,	NONE,	OFF,	NONE,	OFF,	NONE
+B38,	ON,	OFF,	NONE,	OFF,	NONE,	OFF,	NONE
+B08,	ON,	OFF,	NONE,	OFF,	NONE,	OFF,	NONE
+B19,	ON,	OFF,	NONE,	OFF,	NONE,	OFF,	NONE
+B29,	ON,	OFF,	NONE,	OFF,	NONE,	OFF,	NONE
+B39,	ON,	OFF,	NONE,	OFF,	NONE,	OFF,	NONE
+B09,	ON,	OFF,	NONE,	OFF,	NONE,	OFF,	NONE
+B9_INV,	ON,	OFF,	NONE,	OFF,	NONE,	OFF,	NONE
+
+
+[Static Compensator Dynamic Model]
+//*ID,	Status,	Stat. Comp. Status,	Stat. Comp. ID
+SVC06,	ON,	OFF,	NONE
+SVC07,	ON,	OFF,	NONE
+SVC04,	ON,	OFF,	NONE
+SVC05,	ON,	OFF,	NONE
+SVC02,	ON,	OFF,	NONE
+SVC12,	ON,	OFF,	NONE
+SVC03,	ON,	OFF,	NONE
+SVC13,	ON,	OFF,	NONE
+SVC10,	ON,	OFF,	NONE
+SVC01,	ON,	OFF,	NONE
+SVC11,	ON,	OFF,	NONE
+SVC08,	ON,	OFF,	NONE
+SVC09,	ON,	OFF,	NONE
+S0,	ON,	OFF,	NONE
+
+<[END_EXTENSION_STUDY]>
+
+
+
+<[INPUT_DATA_SECTION]>
+
+[REPORT SETTINGS]
+//*Is Impedance In [p.u],	Is System Base,	Base Power [MVA],	Show Duplicated Eq. As One,	Multiply Impedance,	Show Stability,	Show Harmonic,	Show Motor Start,	Show Tabular Report
+1,	1,	100,	1,	1,	0,	0,	0,	1
+[CUSTOMIZED LABELS]
+//*Label Identifier,	Label Content
+
+<[END_INPUT_DATA_SECTION]>
+
+
+
+<[SOLUTION_DATA_SECTION]>
+
+[LOAD_FLOW_CUSTOMIZED LABELS]
+//*Label Identifier,	Label Content
+[MOTOR_START_CUSTOMIZED LABELS]
+//*Label Identifier,	Label Content
+[CONTINGENCY_CUSTOMIZED LABELS]
+//*Label Identifier,	Label Content
+[OPTIMAL_LOAD_FLOW_CUSTOMIZED LABELS]
+//*Label Identifier,	Label Content
+
+<[END_SOLUTION_DATA_SECTION]>
+
+
+
+<[LF_ANALYSIS_STUDIES]>
+
+[COMMENTS]
+
+[STUDY_LABEL]
+
+
+[PARAMETERS]
+// Tolerance,	BusRep,	LineRep,	TxfoRep,	GenRep,	ShuntRep,	LoadRep,	MotorRep,	LimitsRep,	AbnormalRep,	SummaryRep,	BusAndFirstRingRep,	BranchRep,	SelectAllRep,	Global V Limits,	Global Min V,	Gloabl Max V,	Derate Resistance,	Use set 2 resistance,	Temp to derate R to,	Apply Mult. Fact.,	Apply Mult Entire Net.,	Global Pgen Fact.,	Global QgenMax Fact.,	QgenMin Fact.,	Active Load Factor,	Reactive Load Fact,	Global nP,	GlobalnP Applied,	Global nQ,	GlobalnQ Applied,	Report Monitered Components,	Show Both Ends,	Apply Load Colors,	Apply Old Arrows,	Value Affecting Arrows,	Display Study Label
+0.1,	1,	1,	1,	1,	1,	1,	1,	1,	1,	1,	0,	0,	0,	0,	0.9,	1.1,	0,	1,	25,	0,	1,	100,	100,	100,	100,	100,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0
+
+[FACTOR MODIFICATION BY ZONE]
+
+[BUS REP PARAM]
+// Column Title,	Included in report,	Included in label,	Column Width,	...
+Bus ID,	1,	1,	12,	Zone,	1,	0,	12,	BASE VOLT,	1,	0,	10,	VOLTAGE/ANG,	1,	1,	15,	MIN/MAX LIM,	1,	0,	15,	GENERATION,	1,	0,	15,	S  LOAD,	1,	0,	15,	MOTOR LOAD,	1,	0,	15,	SHUNT LOAD,	1,	0,	15
+
+[LINE REP PARAM]
+// Column Title,	Included in report,	Included in label,	Column Width,	...
+LINE ID,	1,	1,	15,	BUSES ID,	1,	0,	25,	DATABASE ID,	1,	0,	15,	KVLEVEL,	1,	0,	10,	Length,	1,	0,	10,	P+JQ FLOW,	1,	1,	15,	S FLOW,	1,	0,	10,	FLOW PF,	1,	0,	8,	CURRENT/ANG,	1,	1,	15,	AMPACITY,	1,	0,	15,	LOADING/EMER,	1,	0,	15,	P+JQ LOSSES,	1,	0,	15,	R+JX,	1,	0,	15,	B,	1,	0,	10
+
+[TXFO REP PARAM]
+// Column Title,	Included in report,	Included in label,	Column Width,	...
+TXFO ID,	1,	1,	15,	BUSES ID,	1,	0,	25,	DATABASE ID,	1,	0,	15,	BASE VOLT,	1,	0,	15,	MVA RATING,	1,	0,	12,	CONNECTION,	1,	0,	10,	P/S SHIFT,	1,	0,	10,	P+JQ FLOW,	1,	0,	15,	S FLOW,	1,	1,	10,	FLOW PF,	1,	0,	10,	CURRENT/ANG,	1,	1,	15,	AMPACITY,	1,	0,	15,	Loading,	1,	0,	15,	P+JQ LOSSES,	1,	1,	15,	Tap Position,	1,	0,	20,	TAP RATIO/AVAIL,	1,	1,	20,	TAP MIN/MAX,	1,	0,	15,	Ctrld Bus/V,	1,	0,	20,	CTRLD BUS MN/MX,	1,	0,	20,	ANGLE MX/MN/NOW,	1,	0,	20,	P MAX/MIN,	1,	0,	15,	Q MAX/MIN,	1,	0,	15,	R+JX,	1,	0,	15
+
+[GENER REP PARAM]
+// Column Title,	Included in report,	Included in label,	Column Width,	...
+Gener Id,	1,	1,	10,	Bus ID,	1,	0,	10,	DATABASE ID,	1,	0,	15,	BASE VOLT,	1,	0,	10,	MVA RATING,	1,	0,	10,	Generator Type,	1,	0,	10,	Ctrld Bus/V,	1,	0,	20,	P+JQ GEN,	1,	1,	15,	S GEN,	1,	0,	10,	GEN PF,	1,	0,	10,	Gen I,	1,	1,	10,	Q MAX/MIN,	1,	0,	15,	R+JX,	1,	0,	15
+
+[SHUNT REP PARAM]
+// Column Title,	Included in report,	Included in label,	Column Width,	...
+COMPO ID,	1,	1,	10,	Bus ID,	1,	0,	10,	DATABASE ID,	1,	0,	15,	SHUNT Z,	1,	0,	15,	SHUNT I,	1,	1,	15,	MOTOR S,	1,	1,	10,	MOTOR V,	1,	0,	10,	MOTOR A,	1,	1,	10,	MOTOR PF,	1,	1,	10,	P+JQ LOAD,	1,	0,	15,	S  LOAD,	1,	1,	10,	I LOAD,	1,	1,	10,	LOAD PF,	1,	1,	10
+
+[LIMITS REP PARAM]
+// Txfo check,	Gener Check,	Txfo %,	Gener %
+1,	1,	0,	0
+
+[ABNORMAL REP PARAM]
+// Txfo check,	Line/cable Check,	Bus Check,	Txfo %,	line/cable %,	Bus %,	UnerloadTxfo Check,	UnerloadLine Check,	UnderloadLine/cable %,	UnderloadTxfo %
+1,	1,	1,	100,	100,	100,	1,	1,	50,	50
+
+[SOLVING OPTIONS SELECTION]
+// Solution Method,	Apply Flat start,	Apply constraints,	Fix tap for tcul,	Nbr iterations,	Area Interchange,	Dist. Swing,	Keep Iterations,	Create So File,	Block Q Txfo Adjust,	Block Phase-Shifter Adjust,	Block Switchable Shunt Adjust
+0,	1,	0,	1,	60,	0,	0,	0,	0,	1,	1,	1
+
+[UNIT SETTINGS]
+// Voltage,	Current,	Power,	PF,	Angle,	Ampacity
+0,	0,	2,	1,	0,	0
+
+[DISTRIBUTED SWING]
+
+[AREA INTERCHANGE]
+//*Area Id, Generation Bus Id, P exchanged, Tolerance, Max P at gen bus, Min P at gen bus
+
+[AREA INTERCHANGE END]
+
+[LOAD COLORS]
+//*Description,	Enabled,	Min. Loading Limit,	Max. Loading Limit,	Color
+
+[LOAD COLORS END]
+
+[GENERATOR MONITORING]
+G01,	G02,	G03,	G04,	G05,	G06,	G07,	G08,	G09,	G10,	
+
+[INDUCTION MOTOR MONITORING]
+IM1,	
+
+[FIXED TAP TRANSFORMER MONITORING]
+T01,	T02,	T03,	T04,	T05,	T06,	T07,	T08,	T09,	T10,	T11,	T12,	
+
+[VOLTAGE REGULATING TRANSFORMER MONITORING]
+T_INV,	T_REC,	
+
+[LINE MONITORING]
+L01,	L02,	L03,	L04,	L05,	L06,	L07,	L08,	L09,	L10,	L11,	L12,	L13,	L14,	L16,	L17,	L18,	L19,	L20,	L21,	L22,	L23,	L24,	L25,	L26,	L27,	L28,	L29,	L30,	L31,	L32,	L33,	L34,	
+
+[BUS MONITORING]
+B01,	B02,	B03,	B04,	B05,	B06,	B07,	B08,	B09,	B10,	B11,	B12,	B13,	B14,	B15,	B16,	B17,	B18,	B19,	B20,	B21,	B22,	B23,	B24,	B25,	B26,	B27,	B28,	B29,	B30,	B31,	B32,	B33,	B34,	B35,	B36,	B37,	B38,	B39,	B39_REC,	B9_INV,	
+
+[LOAD MONITORING]
+S03,	S04,	S07,	S08,	S12,	S15,	S16,	S18,	S20,	S21,	S23,	S24,	S25,	S26,	S27,	S28,	S29,	S31,	S39,	
+
+[DC LINE MONITORING]
+DCI,	
+
+<[END_LF_ANALYSIS_STUDIES]>
+
+
+
+<[SC_ANALYSIS_STUDIES]>
+
+[COMMENTS]
+
+[STUDY_LABEL]
+
+[PARAMETERS]
+// Report Type,	Phase or Sequence,	Polar or Rectangular,	LLL,	LG,	LL,	LLG,	Close In-Line End,	Sliding Fault Option,	Sliding Nbr of Section,	Sliding Length,	Series Fault 1 phase,	Series Fault 2 phases,	Series Fault Asym.,	Series Fault Length,	Derate Resistance,	Show Input Report,	BusRep,	LineRep,	TxfoRep,	GenRep,	MotorRep,	SelectAllRep,	Report Monitered Components,	Apply OLD Arrows,	Value Affecting Arrows,	Display Study Label,	Derate Resistance Using Set2 Resistance,	Temperature To Derate Resistance To,	Off Nominal Tap
+0,	0,	0,	1,	1,	0,	0,	0,	1,	1,	50,	1,	0,	0,	50,	0,	0,	1,	1,	1,	1,	1,	0,	0,	0,	0,	0,	1,	25,	0
+
+[ANSI SETTINGS]
+// Duty Type,	Breaker Speed,	Parting Time,	Parting pos.,	Remote motor contribution,	Ignore induction motor,	Ignore synch. motor,	Include B0
+0,	0,	0,	0,	0,	0,	0,	0
+
+[NON-ANSI SETTINGS]
+// Loads Included,	Generator Impedance,	Load Type,	Ignore induction motor,	Ignore synch. motor,	Include B0,	Rf,	Xf,	Rg,	Xg,	Ra,	Xa,	Rb,	Xb,	Rn,	Xn
+0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0
+
+[SOLVING OPTIONS SELECTION]
+// Study Protocol,	Prefault Voltages,	Base V Mult.,	Series V Magnitude,	Series V Angle,	Faulted Component,	
+1,	0,	1,	1,	0,	NONE
+
+[UNIT SETTINGS]
+// OLD V,	OLD I,	OLD S,	OLD ANG,	OLD PF,	OLD POLAR,	OLD PHASE,	LAB V,	LAB I,	LAB S,	LAB ANG,	LAB PF,	LAB POLAR,	LLL,	LG,	LL,	LLG,	1PH,	2PH,	ASYM,	PH A,	PH B,	PH C,	PH N,	SEQ 0,	SEQ POS,	SEQ NEG,	TABULAR V,	TABULAR I,	TABULAR S,	TABULAR ANG,	TABULAR PF,	TABULAR POLAR,	TABULAR PHASE
+0,	1,	2,	0,	1,	0,	0,	0,	1,	2,	0,	1,	0,	1,	1,	0,	0,	1,	0,	0,	1,	0,	0,	0,	0,	0,	0,	0,	1,	2,	0,	1,	0,	0
+
+<[END_SC_ANALYSIS_STUDIES]>
+
+
+
+<[IEC_ANALYSIS_STUDIES]>
+
+[COMMENTS]
+
+[STUDY_LABEL]
+
+
+[PARAMETERS]
+// Report Type,	Phase or Sequence,	Polar or Rectangular,	LLL,	LG,	LL,	LLG,	Close In-Line End,	Sliding Fault Option,	Sliding Nbr of Section,	Sliding Length,	Series Fault 1 phase,	Series Fault 2 phases,	Series Fault Asym.,	Series Fault Length,	Derate Resistance,	Show Input Report,	BusRep,	LineRep,	TxfoRep,	GenRep,	MotorRep,	SelectAllRep,	Report Monitered Components,	Apply OLD Arrows,	Value Affecting Arrows,	Display Study Label,	Derate Resistance Using Set2 Resistance,	Temperature To Derate Resistance To,	Off Nominal Tap
+0,	0,	0,	1,	1,	0,	0,	0,	1,	1,	50,	1,	0,	0,	50,	0,	0,	1,	1,	1,	1,	1,	0,	0,	0,	0,	0,	1,	25,	0
+
+[IEC SETTINGS]
+// Duty Type,	Current Type,	Minimum Opening Time,	Excit. Settings,	Assign R/X Utility,	Assign R/X Gener,	Assign R/X Motors,	Apply Z factor utility,	Apply Z factor generator,	Ignore induction motor,	Ignore synch. motor,	Include B0,	Corr. fact. for PSU Z,	Corr. fact. for 2wind txfo Z,	Corr. fact. for 3wind txfo Z,	Peak Current Mtehod,	Thermal Effect?,	R Min. Temp.,	Exposure Time
+0,	0,	0.02,	0,	1,	1,	1,	1,	1,	0,	0,	1,	1,	1,	1,	1,	0,	20,	0.05
+
+[IEC VOLTAGE FACTORS]
+// Default  Factors,	LV Fact. Tol.,	LV Threshold,	MV Threshold,	HV Threshold,	LV Max. Factor,	LV Min. Factor,	MV Max. Factor,	MV Min. Factor,	HV Max. Factor,	HV Min. Factor
+0,	0,	1,	35,	550,	1.05,	0.95,	1.1,	1,	1.1,	1
+
+[NON-IEC SETTINGS]
+// Loads Included,	Generator Impedance,	Load Type,	Ignore induction motor,	Ignore synch. motor,	Include B0,	Rf,	Xf,	Rg,	Xg,	Ra,	Xa,	Rb,	Xb,	Rn,	Xn
+0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0
+
+[SOLVING OPTIONS SELECTION]
+// Study Protocol,	Prefault Voltages,	Base V Mult.,	Series V Magnitude,	Series V Angle,	Faulted Component,	
+1,	0,	1,	1,	0,	NONE
+
+[UNIT SETTINGS]
+// OLD V,	OLD I,	OLD S,	OLD ANG,	OLD PF,	OLD POLAR,	OLD PHASE,	LAB V,	LAB I,	LAB S,	LAB ANG,	LAB PF,	LAB POLAR,	LLL,	LG,	LL,	LLG,	1PH,	2PH,	ASYM,	PH A,	PH B,	PH C,	PH N,	SEQ 0,	SEQ POS,	SEQ NEG,	TABULAR V,	TABULAR I,	TABULAR S,	TABULAR ANG,	TABULAR PF,	TABULAR POLAR,	TABULAR PHASE
+0,	1,	2,	0,	1,	0,	0,	0,	1,	2,	0,	1,	0,	1,	1,	0,	0,	1,	0,	0,	1,	0,	0,	0,	0,	0,	0,	0,	1,	2,	0,	1,	0,	0
+
+<[END_IEC_ANALYSIS_STUDIES]>
+
+
+
+<[MS_ANALYSIS_STUDIES]>
+
+[COMMENTS]
+
+[STUDY_LABEL]
+
+
+[PARAMETERS]
+// Tolerance,	Assisting Method,	Model Generator Transient impedance,	Display Study Label
+0.1,	0,	0,	0
+
+[SOLVING OPTIONS SELECTION]
+// Started Motor Id,	Keep Iterations
+NONE,	0
+
+[UNIT SETTINGS]
+// Voltage,	Current,	Power,	PF,	Angle,	Ampacity
+0,	0,	2,	1,	0,	0
+
+<[END_MS_ANALYSIS_STUDIES]>
+
+
+
+<[HARMONIC_ANALYSIS_STUDIES]>
+
+[COMMENTS]
+
+[STUDY_LABEL]
+
+
+[PARAMETERS]
+// Model_For_Analysis,	Skin_Branch_rlc,	A,	B,	Skin_Branch_rc,	A,	B,	Skin_Gener,	A,	B,	Skin_Sync_Motor,	A,	B,	Load_Model,	Load_Connection,	Induction_Motor_Model,	LINE,	CABLE,	Conduct_choice,	Skin_for_line_Dist,	Skin_for_cable_Dist,	Consider_Coupling_Lines,	Sampling Points Choice,	Number Of Sampling Points,	Apply Txfo Tap Postion,	Display Study Label
+three phase,	1,	0.1,	1.5,	1,	0.1,	1.5,	0,	0.1,	1.5,	0,	0.1,	1.5,	0,	Yg,	0,	0,	0,	0,	0,	0,	0,	0,	50,	0,	0
+
+[THEVENIN IMPEDANCE ANALYSIS]
+// Every_bus,	Matrix_calc,	Freq_min,	Freq_max,	Step,	Bus_selected (Name, Ord. Number)
+0,	0,	60,	3000,	60,	[NONE]
+
+[SEQUENCE IMPEDANCE ANALYSIS]
+// Freq_min,	Freq_max,	Step,	Bus_selected (Name, Ord. Number)
+60,	3000,	60,	[NONE]
+
+[DISTORTION ANALYSIS]
+// Every_bus,	FVI_name,	Use_fundamental_volt/current,	Buses_selected (Name, Ord. Number),	Lines_selected (Name, Ord. Number, Model)
+0,	D:\psaf\project\\Psaf.FVI,	0,	1289960301,	[NONE],	[NONE]
+
+[SENSITIVITY ANALYSIS]
+// Admittance Min (%),	Admittance Max (%),	Buses_selected (Name, Ord. Number),	Elements_selected (Name, Ord. Number, Model)
+0,	200,	[NONE],	[NONE]
+
+[CAPRAT]
+// Report All,	Report Cap,	Report Filtr_ST,	Report Filtr_DT,	Report Filtr_C,	Report Filtr_HP,	Qvar fact,	Irms fact,	Vrms fact,	Vpeak fact
+0,	0,	0,	0,	0,	0,	1.35,	1.35,	1.1,	1.2
+
+[VOLTAGE DISTORTION LIMITS]
+// Base kV (LL),	Individual Harmonic Distortion,	Total Harmonic Distortion
+  345.000,	1,	1.5
+   16.500,	3,	5
+  100.000,	1.5,	2.5
+  138.000,	1.5,	2.5
+  230.000,	1,	1.5
+[VOLTAGE DISTORTION LIMITS END]
+
+[UNIT SETTINGS]
+// Voltage Distortion,	Current Distortion,	Capacitor Rating,	Volt. Distort. Unit,	Current Distort. Unit,	Capac State,	Filter State
+7,	7,	4,	1,	1,	1,	1
+
+<[END_HARMO_ANALYSIS_STUDIES]>
+
+
+
+<[STABILITY_ANALYSIS_STUDY]>
+
+[COMMENTS]
+
+[STUDY_LABEL]
+
+[ISLANDED FREQUENCY]
+
+[PARAMETERS]
+0.1,	1,	1,	140,	0.5,	110,	5,	1,	1,	100,	0,	0,	No,	0,	0,	0,	1
+
+[INITIAL CONDITIONS]
+NONE,	0,	NONE,	0,	NONE
+
+[GLOBAL MODEL SELECTION]
+1,	0,	1,	1,	1,	1,	2,	1,	2,	1,	1,	1,	1,	1,	2
+
+
+[TABULAR REPORT PRINTING OPTIONS]
+0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	
+
+[LOAD MODIFICATION BY ZONE]
+
+[ISLANDED SYSTEM FREQUENCY]
+
+[GENERIC UDM]
+
+[GLOBAL_LOW_VOLTAGE_RELAY]
+
+[GLOBAL_LOW_VOLTAGE_RELAY_UDM]
+
+[GLOBAL_LOW_FREQUENCY_RELAY]
+
+[GLOBAL_LOW_FREQUENCY_RELAY_UDM]
+
+[REAL TIME PLOT ST]
+
+[REAL TIME PLOT ST END]
+<[END_STABILITY_ANALYSIS_STUDY]>
+
+
+
+<[TCC_INTERFACE_STUDIES]>
+
+[COMMENTS]
+
+[STUDY_LABEL]
+
+[PARAMETERS]
+// Derate Resistance,	Derate Resistance Using Set2 Resistance,	Temperature To Derate Resistance To,	Display Study Label
+0,	1,	25,	0
+
+[ANSI SETTINGS]
+// Duty Type,	Breaker Speed,	Parting Time,	Parting pos.,	Remote motor contribution,	Ignore induction motor,	Ignore synch. motor,	Include B0
+0,	0,	0,	0,	0,	0,	0,	0
+
+[IEC SETTINGS]
+// Duty Type,	Current Type,	Minimum Opening Time,	Excit. Settings,	Assign R/X Utility,	Assign R/X Gener,	Assign R/X Motors,	Apply Z factor utility,	Apply Z factor generator,	Ignore induction motor,	Ignore synch. motor,	Include B0,	Corr. fact. for PSU Z,	Corr. fact. for 2wind txfo Z,	Corr. fact. for 3wind txfo Z,	Peak Current Mtehod,	Thermal Effect?,	R Min. Temp.,	Exposure Time
+0,	0,	0.02,	0,	1,	1,	1,	1,	1,	0,	0,	1,	1,	1,	1,	1,	0,	20,	0.05
+
+[NON-ANSI SETTINGS]
+// Loads Included,	Generator Impedance,	Load Type,	Ignore induction motor,	Ignore synch. motor,	Include B0,	Rf,	Xf,	Rg,	Xg,	Ra,	Xa,	Rb,	Xb,	Rn,	Xn
+0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0
+
+[SOLVING OPTIONS SELECTION]
+// Perform SC,	Selected Bus Option,	Study Protocol,	Prefault Voltages,	Base V Mult.,	Faulted Component,	
+1,	1,	1,	0,	1,	NONE
+
+[UNIT SETTINGS]
+// OLD V,	OLD I,	OLD S,	OLD ANG,	OLD PF,	OLD POLAR,	OLD PHASE,	LAB V,	LAB I,	LAB S,	LAB ANG,	LAB PF,	LAB POLAR,	LLL,	LG,	LL,	LLG,	1PH,	2PH,	ASYM,	PH A,	PH B,	PH C,	PH N,	SEQ 0,	SEQ POS,	SEQ NEG,	TABULAR V,	TABULAR I,	TABULAR S,	TABULAR ANG,	TABULAR PF,	TABULAR POLAR,	TABULAR PHASE
+0,	1,	2,	0,	1,	0,	0,	0,	1,	2,	0,	1,	0,	1,	1,	0,	0,	1,	0,	0,	1,	0,	0,	0,	0,	0,	0,	0,	1,	2,	0,	1,	0,	0
+
+<[END_TCC_INTERFACE_STUDIES]>
+
+
+
+<[CA_ANALYSIS_STUDIES]>
+
+[COMMENTS]
+
+[STUDY_LABEL]
+
+
+[BASE CASE]
+// Tolerance,	DerateResistance,	Global V Limits,	Global Min V,	Gloabl Max V,	Nbr iter.,	Solve Method,	Flat Start?,	Adjust,	Var as Fix,	Area Inter,	Block Q Txfo Adjust,	Block Phase-Shifter Adjust,	Block Switchable Shunt Adjust,	Block DC Line Adjust,	Derate Resistance Using Set2 Resistance,	Temperature To Derate Resistance To
+0.1,	0,	0,	0.9,	1.1,	60,	0,	0,	1,	0,	0,	0,	0,	0,	0,	1,	25
+
+[PARAMETERS]
+// BusRep,	LineRep,	TxfoRep,	GenRep,	ShuntRep,	LoadRep,	MotorRep,	LimitsRep,	AbnormalRep,	SummaryRep,	NoResultRep,	SelectAllRep,	Report Type,	Display Study Label,	Overload Criteria,	Voltage Criteria,	Volt. Range Violation,	Voltage Deviation from BC,	Loading Violation,	Loading Deviation from BC,	Bus Angle Shift
+1,	1,	1,	1,	1,	1,	1,	1,	1,	1,	1,	0,	0,	0,	1,	1,	0,	0,	0,	0,	0
+
+[BUS REP PARAM]
+// Column Title,	Included in report,	Included in label,	Column Width,	...
+Bus ID,	1,	1,	12,	Zone,	1,	0,	12,	BASE VOLT,	1,	0,	10,	VOLTAGE/ANG,	1,	1,	15,	MIN/MAX LIM,	1,	0,	15,	GENERATION,	1,	0,	15,	S  LOAD,	1,	0,	15,	MOTOR LOAD,	1,	0,	15,	SHUNT LOAD,	1,	0,	15
+
+[LINE REP PARAM]
+// Column Title,	Included in report,	Included in label,	Column Width,	...
+LINE ID,	1,	1,	15,	BUSES ID,	1,	0,	25,	DATABASE ID,	1,	0,	15,	KVLEVEL,	1,	0,	10,	Length,	1,	0,	10,	P+JQ FLOW,	1,	1,	15,	S FLOW,	1,	0,	10,	FLOW PF,	1,	0,	8,	CURRENT/ANG,	1,	1,	15,	AMPACITY,	1,	0,	15,	LOADING/EMER,	1,	0,	15,	P+JQ LOSSES,	1,	0,	15,	R+JX,	1,	0,	15,	B,	1,	0,	10
+
+[TXFO REP PARAM]
+// Column Title,	Included in report,	Included in label,	Column Width,	...
+TXFO ID,	1,	1,	15,	BUSES ID,	1,	0,	25,	DATABASE ID,	1,	0,	15,	BASE VOLT,	1,	0,	15,	MVA RATING,	1,	0,	12,	CONNECTION,	1,	0,	10,	P/S SHIFT,	1,	0,	10,	P+JQ FLOW,	1,	0,	15,	S FLOW,	1,	1,	10,	FLOW PF,	1,	0,	10,	CURRENT/ANG,	1,	1,	15,	AMPACITY,	1,	0,	15,	Loading,	1,	0,	15,	P+JQ LOSSES,	1,	1,	15,	Tap Position,	1,	0,	20,	TAP RATIO/AVAIL,	1,	1,	20,	TAP MIN/MAX,	1,	0,	15,	Ctrld Bus/V,	1,	0,	20,	CTRLD BUS MN/MX,	1,	0,	20,	ANGLE MX/MN/NOW,	1,	0,	20,	P MAX/MIN,	1,	0,	15,	Q MAX/MIN,	1,	0,	15,	R+JX,	1,	0,	15
+
+[GENER REP PARAM]
+// Column Title,	Included in report,	Included in label,	Column Width,	...
+Gener Id,	1,	1,	10,	Bus ID,	1,	0,	10,	DATABASE ID,	1,	0,	15,	BASE VOLT,	1,	0,	10,	MVA RATING,	1,	0,	10,	Generator Type,	1,	0,	10,	Ctrld Bus/V,	1,	0,	20,	P+JQ GEN,	1,	1,	15,	S GEN,	1,	0,	10,	GEN PF,	1,	0,	10,	Gen I,	1,	1,	10,	Q MAX/MIN,	1,	0,	15,	R+JX,	1,	0,	15
+
+[SHUNT REP PARAM]
+// Column Title,	Included in report,	Included in label,	Column Width,	...
+COMPO ID,	1,	1,	10,	Bus ID,	1,	0,	10,	DATABASE ID,	1,	0,	15,	SHUNT Z,	1,	0,	15,	SHUNT I,	1,	1,	15,	MOTOR S,	1,	1,	10,	MOTOR V,	1,	0,	10,	MOTOR A,	1,	1,	10,	MOTOR PF,	1,	1,	10,	P+JQ LOAD,	1,	0,	15,	S  LOAD,	1,	1,	10,	I LOAD,	1,	1,	10,	LOAD PF,	1,	1,	10
+
+[LIMITS REP PARAM]
+// Txfo check,	Gener Check,	Txfo %,	Gener %
+1,	1,	0,	0
+
+[ABNORMAL REP PARAM]
+// Txfo check,	Line/cable Check,	Bus Check,	Txfo %,	line/cable %,	Bus %,	UnerloadTxfo Check,	UnerloadLine Check,	UnderloadLine/cable %,	UnderloadTxfo %
+1,	1,	1,	100,	100,	100,	1,	1,	50,	50
+
+[REP LOAD PARAM]
+// P check,	Q check
+1,	1
+
+[REP SHUNT PARAM]
+// P check,	Q check
+1,	1
+
+[REP BUS PARAM]
+// V sol,	Ang sol
+1,	1
+
+[REP GENER PARAM]
+// Type,	P Gen,	Q Gen,	Q Max,	Q Min
+1,	1,	1,	1,	1
+
+[REP TXFO PARAM]
+// P check,	Q check,	Tap Ratio,	Tap Pos,	Max Tap,	Min Tap,	Set Point Max,	Set Point Min
+1,	1,	1,	1,	1,	1,	1,	1
+
+[REP LINE PARAM]
+// P check,	Q check,	I check
+1,	1,	1
+
+[REP MOTOR PARAM]
+// V sol,	S,	Load,	P,	I
+1,	1,	1,	1,	1
+
+[AREA INTERCHANGE]
+//*Area Id, Generation Bus Id, P exchanged, Tolerance, Max P at gen bus, Min P at gen bus
+
+[AREA INTERCHANGE END]
+
+[CONTINGENCIES_GROUPS]
+// Contingency Group Id,	Status,	Contingency Id's...
+
+[CONTINGENCIES]
+// Contingency Id,	Status,	Nber of iter.,	Tol.,	Method,	Flat Start,	Constraints,	TxVar as Fix,	Area Inter.,	Selected For Report,	Selected For Display,	Block Q Txfo Adjust,	Block Phase-Shifter Adjust,	Block Switchable Shunt Adjust,	Block DC Line Adjust,	Event Id's...
+
+
+<[END_CA_ANALYSIS_STUDIES]>
+
+
+
+<[OPF_ANALYSIS_STUDIES]>
+
+[COMMENTS]
+
+[STUDY_LABEL]
+
+
+[OPF OBJECTIVES PARAM]
+Mini Fuel Cost,	Mini P Slack,	Mini P Loss,	Mini Q Loss,	Mini Series Comp.,	Mini Var Add,	Mini Load Shed.,	Mini Var. Control Mov.,	Var. Lin. or Quadr. Mov.,	Maxi Flat V Prof.,	Maxi V Secur. Index,	Maxi Branch Flow Secur. Index,	Lin. Control Var. Mov. Weight,	Quad. Control Var. Mov. Weight,	Flat V Prof. Weight,	V Secu. Index Weight,	Branch Flow Secu. Index Weight
+0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	0,	100,	100,	100,	100,	100
+
+[OPF CONTROLS PARAM]
+Fix Tvar Tap,	Fix Txphase angle,	Fix Switched shunt,	Fix Gen Volt,	Area Interchange,	Auto. scaling,	Dual Convergence,	Adjust Limits Feasability,	OPF Sol. Method,	Clamp Non Opt. Gen.,	Fixed Volt. Penalty,	Final Clamp Tol.,	Flat Start
+0,	0,	0,	0,	0,	1,	1,	0,	0,	0,	10000,	0.01,	1
+
+[OPF TOLERANCES PARAM]
+Init. Barrier Coef.,	Final Barrier Coef.,	Coarse Limit,	Fine Limit,	Max. Iter. number,	Conv. Tol.,	Interior Shift,	Barrier Step,	Infeasable Var. Penalty,	Gen. Volt. Penalty,	Tcul Tap Penalty
+1,	0.001,	3,	10,	50,	0.1,	0.1,	0.995,	0.1,	10000,	10000
+
+[PARAMETERS]
+BusRep,	LineRep,	TxfoRep,	GenRep,	ShuntRep,	LoadRep,	MotorRep,	LimitsRep,	AbnormalRep,	SummaryRep,	SelectAllRep,	Report Monitered Components
+1,	1,	1,	1,	1,	1,	1,	1,	1,	1,	0,	0
+
+[BUS REP PARAM]
+// BusID,	ExtraBusID,	KVBase,	SolVoltage,	MinMaxVoltLimit,	EmergencyMinMaxVoltLimit,	Lambda P,	Lambda Q,	Lambda V,	Margin P,	Margin Q
+OFF,	OFF,	OFF,	OFF,	OFF,	OFF,	OFF,	OFF,	OFF,	OFF,	OFF
+
+[LINE REP PARAM]
+// Column Title,	Included in report,	Included in label,	Column Width,	...
+LINE ID,	1,	1,	15,	BUSES ID,	1,	0,	25,	DATABASE ID,	1,	0,	15,	KVLEVEL,	1,	0,	10,	Length,	1,	0,	10,	P+JQ FLOW,	1,	1,	15,	S FLOW,	1,	0,	10,	FLOW PF,	1,	0,	8,	CURRENT/ANG,	1,	1,	15,	AMPACITY,	1,	0,	15,	LOADING/EMER,	1,	0,	15,	P+JQ LOSSES,	1,	0,	15,	R+JX,	1,	0,	15,	B,	1,	0,	10
+
+[TXFO REP PARAM]
+// Column Title,	Included in report,	Included in label,	Column Width,	...
+TXFO ID,	1,	1,	15,	BUSES ID,	1,	0,	25,	DATABASE ID,	1,	0,	15,	BASE VOLT,	1,	0,	15,	MVA RATING,	1,	0,	12,	CONNECTION,	1,	0,	10,	P/S SHIFT,	1,	0,	10,	P+JQ FLOW,	1,	0,	15,	S FLOW,	1,	1,	10,	FLOW PF,	1,	0,	10,	CURRENT/ANG,	1,	1,	15,	AMPACITY,	1,	0,	15,	Loading,	1,	0,	15,	P+JQ LOSSES,	1,	1,	15,	Tap Position,	1,	0,	20,	TAP RATIO/AVAIL,	1,	1,	20,	TAP MIN/MAX,	1,	0,	15,	Ctrld Bus/V,	1,	0,	20,	CTRLD BUS MN/MX,	1,	0,	20,	ANGLE MX/MN/NOW,	1,	0,	20,	P MAX/MIN,	1,	0,	15,	Q MAX/MIN,	1,	0,	15,	R+JX,	1,	0,	15
+
+[GENER REP PARAM]
+// Generator ID,	DB ID,	Rated KV,	Rated Mva,	Generation Type,	Control Bus Id,	P & Q,	S,	Power Factor,	Current,	Qmax Qmin,	Impedance,	Fuel Cost
+OFF,	OFF,	OFF,	OFF,	OFF,	OFF,	OFF,	OFF,	OFF,	OFF,	OFF,	OFF,	OFF
+
+[SHUNT REP PARAM]
+// Column Title,	Included in report,	Included in label,	Column Width,	...
+COMPO ID,	1,	1,	10,	Bus ID,	1,	0,	10,	DATABASE ID,	1,	0,	15,	SHUNT Z,	1,	0,	15,	SHUNT I,	1,	1,	15,	MOTOR S,	1,	1,	10,	MOTOR V,	1,	0,	10,	MOTOR A,	1,	1,	10,	MOTOR PF,	1,	1,	10,	P+JQ LOAD,	1,	0,	15,	S  LOAD,	1,	1,	10,	I LOAD,	1,	1,	10,	LOAD PF,	1,	1,	10
+
+[LIMITS REP PARAM]
+// Txfo check,	Gener Check,	Txfo %,	Gener %
+1,	1,	0,	0
+
+[ABNORMAL REP PARAM]
+// Txfo check,	Line/cable Check,	Bus Check,	Txfo %,	line/cable %,	Bus %,	UnerloadTxfo Check,	UnerloadLine Check,	UnderloadLine/cable %,	UnderloadTxfo %
+1,	1,	1,	100,	100,	100,	1,	1,	50,	50
+
+[SOLVING OPTIONS SELECTION]
+// Optimize all?
+0
+
+[UNIT SETTINGS]
+// Voltage,	Current,	Power,	PF,	Angle,	Ampacity
+0,	0,	2,	1,	0,	0
+
+[OPF DISPLAY OPTION]
+// Apply Old Arrows,	Apply Load Colors,	Display Study Label,	Value Affecting Arrows
+0,	0,	0,	0
+
+[LOAD COLORS]
+//*Description,	Enabled,	Min. Loading Limit,	Max. Loading Limit,	Color
+
+[LOAD COLORS END]
+
+<[END_OPF_ANALYSIS_STUDIES]>
+
+
+
+<[VS_ANALYSIS_STUDIES]>
+
+[COMMENTS]
+
+[STUDY_LABEL]
+
+
+[BASE CASE]
+// Tolerance,	DerateResistance,	Global V Limits,	Global Min V,	Gloabl Max V,	Nbr iter.,	Solve Method,	Flat Start?,	Adjust,	Var as Fix,	Area Inter,	Block Q Txfo Adjust,	Block Phase-Shifter Adjust,	Block Switchable Shunt Adjust,	Block DC Line Adjust,	Derate Resistance Using Set2 Resistance,	Temperature To Derate Resistance To
+0.1,	0,	0,	0.9,	1.1,	60,	0,	0,	1,	0,	0,	0,	0,	0,	0,	1,	25
+
+[CONTINGENCIES_GROUPS]
+// Contingency Group Id,	Status,	Contingency Id's...
+
+[CONTINGENCIES]
+// Contingency Id,	Status,	Nber of iter.,	Tol.,	Method,	Flat Start,	Constraints,	TxVar as Fix,	Area Inter.,	Selected For Report,	Selected For Display,	Block Q Txfo Adjust,	Block Phase-Shifter Adjust,	Block Switchable Shunt Adjust,	Block DC Line Adjust,	Event Id's...
+
+
+[LOAD INCREASE]
+// Load Increase Percent,	Load Increase Increment Percent,	IsLoadPowerFactorPIncreaseOnly,	Load Id List...,	
+100,	1,	1,	{}
+
+[GENERATION INCREASE]
+// Re-dispatch method,	Gener Id List...,	
+1,	{}
+
+[VOLTAGE VIOLATION CRITERIA]
+// Upper Normal Lim,	Lower Normal Lim,	Upper Cont Lim,	Lower Cont Lim,	Base Case Margin,	Contingency Margin,	Bus Id List...,	
+1.1,	0.9,	1.2,	0.8,	7,	7,	{}
+
+[REACTIVE POWER RESERVE CRITERIA]
+// Reserve group name,	Desired Reserve,	Gener Id List...,	
+
+[VOLTAGE STABILITY INTERFACE FLOW]
+// Group name,	Line Id List...,	
+
+[SOLVING OPTIONS SELECTION]
+Freeze tap,	Force all loads type,	Type forced,	Use VQ curve approach,	Nb Bus Id in list,	List Bus Id
+0,	0,	0,	0,	0,	0
+
+<[END_VS_ANALYSIS_STUDIES]>
+
+
+
+<[AF_ANALYSIS_STUDIES]>
+
+[COMMENTS]
+
+[STUDY_LABEL]
+
+
+[PARAMETERS]
+// StandardToUse,	PPEClothingValue,	GnrtBusTabRep,	GnrtWarnStkrs,	GnrtXYChtsBdryVSTime,	GnrtXYChtsEngyVSDistForAConstOpenTimeRprt,	GnrtXYChtsEngyVSTimeForAConstDistRprt,	ConstDistMaxInInches,	ConstDistMinInInches,	ConstDistStepInInches,	DistanceDomainStartInInches,	DistanceDomainEndInInches,	DistanceDomainStepInInches,	ConstOpenTimeMaxInSec,	ConstOpenTimeMinInSec,	ConstOpenTimeStepInSec,	EVTStartInSec,	EVTEndInSec,	EVTStepInSec,	BVTStartInSec,	BVTEndInSec,	BVTStepInSec,	LabelFormatID,	OpeningTimeToUse,	UserDefinedOpeningTime,	UseImperial,	MaxRstgEngyDstyInCalPerCm2
+0,	1.2,	1,	1,	1,	1,	1,	36,	12,	6,	0.25,	36,	0.5,	0.1,	0.01,	0.01,	0,	1,	0.1,	0,	1,	0.1,	AVERYA4ANDA5SIZES#C2541,	0,	1,	1,	40
+
+[SOLVING OPTIONS SELECTION]
+// Keep Iterations,	Buse IDs to analyse
+0
+
+
+<[END_AF_ANALYSIS_STUDIES]>
+
+
+

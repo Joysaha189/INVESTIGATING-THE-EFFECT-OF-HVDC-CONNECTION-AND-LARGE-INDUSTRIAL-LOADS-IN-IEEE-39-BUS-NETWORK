@@ -1,0 +1,949 @@
+						In Script					Found in Database
+
+==>> 23 July 2021  20:12:3
+
+Suppression d'un champs non existant --- bdef.DBF, REFCOUNTER, , N, 2, 0
+Suppression d'un champs non existant --- bdef.DBF, ASSOCIATE, , N, 2, 0
+Suppression d'un champs non existant --- bdef.DBF, SPARE1, , N, 2, 0
+Suppression d'un champs non existant --- bdef_grd.DBF, REFCOUNTER, , N, 2, 0
+Suppression d'un champs non existant --- bdef_grd.DBF, ASSOCIATE, , N, 2, 0
+Suppression d'un champs non existant --- bdef_grd.DBF, SPARE1, , N, 2, 0
+Suppression d'un champs non existant --- bmut.DBF, REFCOUNTER, , N, 2, 0
+Suppression d'un champs non existant --- bmut.DBF, ASSOCIATE, , N, 2, 0
+Suppression d'un champs non existant --- bmut.DBF, SPARE1, , N, 2, 0
+Suppression d'un champs non existant --- bmut_grd.DBF, REFCOUNTER, , N, 2, 0
+Suppression d'un champs non existant --- bmut_grd.DBF, ASSOCIATE, , N, 2, 0
+Suppression d'un champs non existant --- bmut_grd.DBF, SPARE1, , N, 2, 0
+Suppression d'un champs non existant --- brc.DBF, REFCOUNTER, , N, 2, 0
+Suppression d'un champs non existant --- brc.DBF, ASSOCIATE, , N, 2, 0
+Suppression d'un champs non existant --- brc.DBF, SPARE1, , N, 2, 0
+Suppression d'un champs non existant --- brc_grd.DBF, REFCOUNTER, , N, 2, 0
+Suppression d'un champs non existant --- brc_grd.DBF, ASSOCIATE, , N, 2, 0
+Suppression d'un champs non existant --- brc_grd.DBF, SPARE1, , N, 2, 0
+Suppression d'un champs non existant --- brlc.DBF, REFCOUNTER, , N, 2, 0
+Suppression d'un champs non existant --- brlc.DBF, ASSOCIATE, , N, 2, 0
+Suppression d'un champs non existant --- brlc.DBF, SPARE1, , N, 2, 0
+Suppression d'un champs non existant --- brlc_grd.DBF, REFCOUNTER, , N, 2, 0
+Suppression d'un champs non existant --- brlc_grd.DBF, ASSOCIATE, , N, 2, 0
+Suppression d'un champs non existant --- brlc_grd.DBF, SPARE1, , N, 2, 0
+Suppression d'un champs non existant --- busway.DBF, REFCOUNTER, , N, 2, 0
+Suppression d'un champs non existant --- busway.DBF, ASSOCIATE, , N, 2, 0
+Suppression d'un champs non existant --- busway.DBF, SPARE1, , N, 2, 0
+Suppression d'un champs non existant --- cable.DBF, INTRADIUS1, , N, 8, 5
+Suppression d'un champs non existant --- cable.DBF, INTRADIUS2, , N, 8, 5
+Suppression d'un champs non existant --- cable.DBF, CR2, , N, 13, 4
+Suppression d'un champs non existant --- cable.DBF, CGMR2, , N, 7, 5
+Suppression d'un champs non existant --- cable.DBF, CRADIUS2, , N, 6, 4
+Suppression d'un champs non existant --- cable.DBF, INSULATION, , C, 1, 0
+Suppression d'un champs non existant --- cable.DBF, CONDPERPHA, , N, 1, 0
+Suppression d'un champs non existant --- cable.DBF, D0, , N, 7, 3
+Suppression d'un champs non existant --- cable.DBF, REFCOUNTER, , N, 2, 0
+Suppression d'un champs non existant --- cable.DBF, REFCOUNT, , N, 2, 0
+Suppression d'un champs non existant --- cable.DBF, ASSOCIATE, , N, 2, 0
+Suppression d'un champs non existant --- cable.DBF, SPARE1, , N, 2, 0
+Suppression d'un champs non existant --- cable.DBF, FREQ, , 
+Suppression d'un champs non existant --- cable.DBF, PHASCODE, , 
+Suppression d'un champs non existant --- cable.DBF, CR1, , 
+Suppression d'un champs non existant --- cable.DBF, CGMR1, , 
+Suppression d'un champs non existant --- cable.DBF, CRADIUS1, , 
+Suppression d'un champs non existant --- cable.DBF, G, , 
+Modification d'un champs non existant --- cable.DBF, CONSTRUCT, , C, 20, 0
+Suppression d'un champs non existant --- cablext.DBF, REFCOUNTER, , N, 2, 0
+Suppression d'un champs non existant --- cablext.DBF, ASSOCIATE, , N, 2, 0
+Suppression d'un champs non existant --- cablext.DBF, SPARE1, , N, 2, 0
+Suppression d'un champs non existant --- Capac.DBF, REFCOUNTER, , N, 2, 0
+Suppression d'un champs non existant --- Capac.DBF, ASSOCIATE, , N, 2, 0
+Suppression d'un champs non existant --- Capac.DBF, SPARE1, , N, 2, 0
+Suppression d'un champs non existant --- cfilter.DBF, SAPRE1, , N, 2, 0
+Suppression d'un champs non existant --- cfilter.DBF, REFCOUNTER, , N, 2, 0
+Suppression d'un champs non existant --- cfilter.DBF, ASSOCIATE, , N, 2, 0
+Suppression d'un champs non existant --- cfilter.DBF, SPARE1, , N, 2, 0
+Suppression d'un champs non existant --- conduct.DBF, TAG, , L, 1, 0
+Suppression d'un champs non existant --- conduct.DBF, REFCOUNTER, , N, 2, 0
+Suppression d'un champs non existant --- conduct.DBF, ASSOCIATE, , N, 2, 0
+Suppression d'un champs non existant --- conduct.DBF, SPARE1, , N, 2, 0
+Suppression d'un champs non existant --- conv.DBF, REFCOUNTER, , N, 2, 0
+Suppression d'un champs non existant --- conv.DBF, ASSOCIATE, , N, 2, 0
+Suppression d'un champs non existant --- conv.DBF, SPARE1, , N, 2, 0
+Suppression d'un champs non existant --- curs_20.DBF, REFCOUNTER, , N, 2, 0
+Suppression d'un champs non existant --- curs_20.DBF, ASSOCIATE, , N, 2, 0
+Suppression d'un champs non existant --- curs_20.DBF, SPARE1, , N, 2, 0
+Suppression d'un champs non existant --- curs_arc.DBF, FP, , N, 13, 6
+Suppression d'un champs non existant --- curs_arc.DBF, S, , N, 13, 6
+Suppression d'un champs non existant --- curs_arc.DBF, V, , N, 13, 6
+Suppression d'un champs non existant --- curs_arc.DBF, REFCOUNTER, , N, 2, 0
+Suppression d'un champs non existant --- curs_arc.DBF, ASSOCIATE, , N, 2, 0
+Suppression d'un champs non existant --- curs_arc.DBF, SPARE1, , N, 2, 0
+Suppression d'un champs non existant --- curs_sf.DBF, REFCOUNTER, , N, 2, 0
+Suppression d'un champs non existant --- curs_sf.DBF, ASSOCIATE, , N, 2, 0
+Suppression d'un champs non existant --- curs_sf.DBF, SPARE1, , N, 2, 0
+Suppression d'un champs non existant --- curs_tbl.DBF, REFCOUNTER, , N, 2, 0
+Suppression d'un champs non existant --- curs_tbl.DBF, ASSOCIATE, , N, 2, 0
+Suppression d'un champs non existant --- curs_tbl.DBF, SPARE1, , N, 2, 0
+Suppression d'un champs non existant --- dcline.DBF, REFCOUNTER, , N, 2, 0
+Suppression d'un champs non existant --- dcline.DBF, ASSOCIATE, , N, 2, 0
+Suppression d'un champs non existant --- dcline.DBF, SPARE1, , N, 2, 0
+Suppression d'un champs non existant --- dtfilter.DBF, MVAR1, , N, 8, 3
+Suppression d'un champs non existant --- dtfilter.DBF, FREQ1, , N, 8, 3
+Suppression d'un champs non existant --- dtfilter.DBF, QF1, , N, 8, 3
+Suppression d'un champs non existant --- dtfilter.DBF, NOMIVOLT1, , N, 8, 3
+Suppression d'un champs non existant --- dtfilter.DBF, MVAR2, , N, 8, 3
+Suppression d'un champs non existant --- dtfilter.DBF, FREQ2, , N, 8, 3
+Suppression d'un champs non existant --- dtfilter.DBF, QF2, , N, 8, 3
+Suppression d'un champs non existant --- dtfilter.DBF, NOMIVOLT2, , N, 8, 3
+Suppression d'un champs non existant --- dtfilter.DBF, REFCOUNTER, , N, 2, 0
+Suppression d'un champs non existant --- dtfilter.DBF, ASSOCIATE, , N, 2, 0
+Suppression d'un champs non existant --- dtfilter.DBF, SPARE1, , N, 2, 0
+Suppression d'un champs non existant --- excitatr.DBF, REFCOUNTER, , N, 2, 0
+Suppression d'un champs non existant --- excitatr.DBF, ASSOCIATE, , N, 2, 0
+Suppression d'un champs non existant --- excitatr.DBF, SPARE1, , N, 2, 0
+Suppression d'un champs non existant --- fdrelay.DBF, REFCOUNTER, , N, 2, 0
+Suppression d'un champs non existant --- fdrelay.DBF, ASSOCIATE, , N, 2, 0
+Suppression d'un champs non existant --- fdrelay.DBF, SPARE1, , N, 2, 0
+Suppression d'un champs non existant --- Gener.DBF, REFCOUNTER, , N, 2, 0
+Suppression d'un champs non existant --- Gener.DBF, ASSOCIATE, , N, 2, 0
+Suppression d'un champs non existant --- Gener.DBF, SPARE1, , N, 2, 0
+Suppression d'un champs non existant --- Generext.DBF, XD, , N, 11, 5
+Suppression d'un champs non existant --- Generext.DBF, XDT, , N, 11, 5
+Suppression d'un champs non existant --- Generext.DBF, XDS, , N, 11, 5
+Suppression d'un champs non existant --- Generext.DBF, REFCOUNTER, , N, 2, 0
+Suppression d'un champs non existant --- Generext.DBF, ASSOCIATE, , N, 2, 0
+Suppression d'un champs non existant --- Generext.DBF, SPARE1, , N, 2, 0
+Suppression d'un champs non existant --- hpfilter.DBF, REFCOUNTER, , N, 2, 0
+Suppression d'un champs non existant --- hpfilter.DBF, ASSOCIATE, , N, 2, 0
+Suppression d'un champs non existant --- hpfilter.DBF, SPARE1, , N, 2, 0
+Suppression d'un champs non existant --- imprelay.DBF, REFCOUNTER, , N, 2, 0
+Suppression d'un champs non existant --- imprelay.DBF, ASSOCIATE, , N, 2, 0
+Suppression d'un champs non existant --- imprelay.DBF, SPARE1, , N, 2, 0
+Suppression d'un champs non existant --- Induct.DBF, REFCOUNTER, , N, 2, 0
+Suppression d'un champs non existant --- Induct.DBF, ASSOCIATE, , N, 2, 0
+Suppression d'un champs non existant --- Induct.DBF, SPARE1, , N, 2, 0
+Suppression d'un champs non existant --- Inductor.DBF, REFCOUNTER, , N, 2, 0
+Suppression d'un champs non existant --- Inductor.DBF, ASSOCIATE, , N, 2, 0
+Suppression d'un champs non existant --- Inductor.DBF, SPARE1, , N, 2, 0
+Suppression d'un champs non existant --- Inductxt.DBF, REFCOUNTER, , N, 2, 0
+Suppression d'un champs non existant --- Inductxt.DBF, ASSOCIATE, , N, 2, 0
+Suppression d'un champs non existant --- Inductxt.DBF, SPARE1, , N, 2, 0
+Suppression d'un champs non existant --- lfrelay.DBF, REFCOUNTER, , N, 2, 0
+Suppression d'un champs non existant --- lfrelay.DBF, ASSOCIATE, , N, 2, 0
+Suppression d'un champs non existant --- lfrelay.DBF, SPARE1, , N, 2, 0
+Suppression d'un champs non existant --- line.DBF, INTRADIUS1, , N, 8, 5
+Suppression d'un champs non existant --- line.DBF, INTRADIUS2, , N, 8, 5
+Suppression d'un champs non existant --- line.DBF, REFCOUNTER, , N, 2, 0
+Suppression d'un champs non existant --- line.DBF, ASSOCIATE, , N, 2, 0
+Suppression d'un champs non existant --- line.DBF, SPARE1, , N, 2, 0
+Suppression d'un champs non existant --- line.DBF, FREQ, , 
+Suppression d'un champs non existant --- line.DBF, PHASCODE, , 
+Suppression d'un champs non existant --- line.DBF, CR1, , 
+Suppression d'un champs non existant --- line.DBF, CGMR1, , 
+Suppression d'un champs non existant --- line.DBF, CRADIUS1, , 
+Suppression d'un champs non existant --- line.DBF, CR2, , 
+Suppression d'un champs non existant --- line.DBF, CGMR2, , 
+Suppression d'un champs non existant --- line.DBF, CRADIUS2, , 
+Suppression d'un champs non existant --- line.DBF, NEUTCODE, , 
+Suppression d'un champs non existant --- line.DBF, NFA, , 
+Suppression d'un champs non existant --- line.DBF, HORA, , 
+Suppression d'un champs non existant --- line.DBF, VERA, , 
+Suppression d'un champs non existant --- line.DBF, HORB, , 
+Suppression d'un champs non existant --- line.DBF, VERB, , 
+Suppression d'un champs non existant --- line.DBF, HORC, , 
+Suppression d'un champs non existant --- line.DBF, VERC, , 
+Suppression d'un champs non existant --- line.DBF, HORN, , 
+Suppression d'un champs non existant --- line.DBF, VERN, , 
+Suppression d'un champs non existant --- Linext.DBF, L, , N, 3, 0
+Suppression d'un champs non existant --- Linext.DBF, L0, , N, 6, 2
+Suppression d'un champs non existant --- Linext.DBF, C, , N, 8, 3
+Suppression d'un champs non existant --- Linext.DBF, C0, , N, 12, 6
+Suppression d'un champs non existant --- Linext.DBF, DTR0, , N, 8, 5
+Suppression d'un champs non existant --- Linext.DBF, DTR1, , N, 8, 5
+Suppression d'un champs non existant --- Linext.DBF, DTL0, , N, 12, 7
+Suppression d'un champs non existant --- Linext.DBF, DTL1, , N, 12, 7
+Suppression d'un champs non existant --- Linext.DBF, REFCOUNTER, , N, 2, 0
+Suppression d'un champs non existant --- Linext.DBF, ASSOCIATE, , N, 2, 0
+Suppression d'un champs non existant --- Linext.DBF, SPARE1, , N, 2, 0
+Suppression d'un champs non existant --- load.DBF, REFCOUNTER, , N, 2, 0
+Suppression d'un champs non existant --- load.DBF, ASSOCIATE, , N, 2, 0
+Suppression d'un champs non existant --- load.DBF, SPARE1, , N, 2, 0
+Suppression d'un champs non existant --- Loadext.DBF, REFCOUNTER, , N, 2, 0
+Suppression d'un champs non existant --- Loadext.DBF, ASSOCIATE, , N, 2, 0
+Suppression d'un champs non existant --- Loadext.DBF, SPARE1, , N, 2, 0
+Suppression d'un champs non existant --- lvrelay.DBF, REFCOUNTER, , N, 2, 0
+Suppression d'un champs non existant --- lvrelay.DBF, ASSOCIATE, , N, 2, 0
+Suppression d'un champs non existant --- lvrelay.DBF, SPARE1, , N, 2, 0
+Suppression d'un champs non existant --- psrelay.DBF, REFCOUNTER, , N, 2, 0
+Suppression d'un champs non existant --- psrelay.DBF, ASSOCIATE, , N, 2, 0
+Suppression d'un champs non existant --- psrelay.DBF, SPARE1, , N, 2, 0
+Suppression d'un champs non existant --- SReactor.DBF, REFCOUNTER, , N, 2, 0
+Suppression d'un champs non existant --- SReactor.DBF, ASSOCIATE, , N, 2, 0
+Suppression d'un champs non existant --- SReactor.DBF, SPARE1, , N, 2, 0
+Suppression d'un champs non existant --- stabil1.DBF, REFCOUNTER, , N, 2, 0
+Suppression d'un champs non existant --- stabil1.DBF, ASSOCIATE, , N, 2, 0
+Suppression d'un champs non existant --- stabil1.DBF, SPARE1, , N, 2, 0
+Suppression d'un champs non existant --- stabil2.DBF, REFCOUNTER, , N, 2, 0
+Suppression d'un champs non existant --- stabil2.DBF, ASSOCIATE, , N, 2, 0
+Suppression d'un champs non existant --- stabil2.DBF, SPARE1, , N, 2, 0
+Suppression d'un champs non existant --- stfilter.DBF, REFCOUNTER, , N, 2, 0
+Suppression d'un champs non existant --- stfilter.DBF, ASSOCIATE, , N, 2, 0
+Suppression d'un champs non existant --- stfilter.DBF, SPARE1, , N, 2, 0
+Suppression d'un champs non existant --- svc.DBF, ALPHA, , N, 6, 2
+Suppression d'un champs non existant --- svc.DBF, L, , N, 12, 6
+Suppression d'un champs non existant --- svc.DBF, VR, , N, 8, 3
+Suppression d'un champs non existant --- svc.DBF, QC, , N, 9, 5
+Suppression d'un champs non existant --- svc.DBF, FREQ, , N, 8, 3
+Suppression d'un champs non existant --- svc.DBF, REFCOUNTER, , N, 2, 0
+Suppression d'un champs non existant --- svc.DBF, ASSOCIATE, , N, 2, 0
+Suppression d'un champs non existant --- svc.DBF, SPARE1, , N, 2, 0
+Suppression d'un champs non existant --- svcext.DBF, VBUS, , N, 11, 5
+Suppression d'un champs non existant --- svcext.DBF, BSV, , N, 11, 5
+Suppression d'un champs non existant --- svcext.DBF, B0, , N, 11, 5
+Suppression d'un champs non existant --- svcext.DBF, VC0, , N, 11, 5
+Suppression d'un champs non existant --- svcext.DBF, REFCOUNTER, , N, 2, 0
+Suppression d'un champs non existant --- svcext.DBF, ASSOCIATE, , N, 2, 0
+Suppression d'un champs non existant --- svcext.DBF, SPARE1, , N, 2, 0
+Suppression d'un champs non existant --- sync.DBF, CLASS, , N, 1, 0
+Suppression d'un champs non existant --- sync.DBF, REFCOUNTER, , N, 2, 0
+Suppression d'un champs non existant --- sync.DBF, ASSOCIATE, , N, 2, 0
+Suppression d'un champs non existant --- sync.DBF, SPARE1, , N, 2, 0
+Suppression d'un champs non existant --- SyncExt.DBF, XD, , N, 11, 5
+Suppression d'un champs non existant --- SyncExt.DBF, XDS, , N, 11, 5
+Suppression d'un champs non existant --- SyncExt.DBF, REFCOUNTER, , N, 2, 0
+Suppression d'un champs non existant --- SyncExt.DBF, ASSOCIATE, , N, 2, 0
+Suppression d'un champs non existant --- SyncExt.DBF, SPARE1, , N, 2, 0
+Suppression d'un champs non existant --- turbine.DBF, REFCOUNTER, , N, 2, 0
+Suppression d'un champs non existant --- turbine.DBF, ASSOCIATE, , N, 2, 0
+Suppression d'un champs non existant --- turbine.DBF, SPARE1, , N, 2, 0
+Suppression d'un champs non existant --- txfix.DBF, REFCOUNTER, , N, 2, 0
+Suppression d'un champs non existant --- txfix.DBF, ASSOCIATE, , N, 2, 0
+Suppression d'un champs non existant --- txfix.DBF, SPARE1, , N, 2, 0
+Suppression d'un champs non existant --- TxfoPhZTbl.DBF, REFCOUNTER, , N, 2, 0
+Suppression d'un champs non existant --- TxfoPhZTbl.DBF, ASSOCIATE, , N, 2, 0
+Suppression d'un champs non existant --- TxfoPhZTbl.DBF, SPARE1, , N, 2, 0
+Suppression d'un champs non existant --- TxfoZTable.DBF, REFCOUNTER, , N, 2, 0
+Suppression d'un champs non existant --- TxfoZTable.DBF, ASSOCIATE, , N, 2, 0
+Suppression d'un champs non existant --- TxfoZTable.DBF, SPARE1, , N, 2, 0
+Suppression d'un champs non existant --- txground.DBF, REFCOUNTER, , N, 2, 0
+Suppression d'un champs non existant --- txground.DBF, ASSOCIATE, , N, 2, 0
+Suppression d'un champs non existant --- txground.DBF, SPARE1, , N, 2, 0
+Suppression d'un champs non existant --- txphase.DBF, REFCOUNTER, , N, 2, 0
+Suppression d'un champs non existant --- txphase.DBF, ASSOCIATE, , N, 2, 0
+Suppression d'un champs non existant --- txphase.DBF, SPARE1, , N, 2, 0
+Suppression d'un champs non existant --- txreact.DBF, REFCOUNTER, , N, 2, 0
+Suppression d'un champs non existant --- txreact.DBF, ASSOCIATE, , N, 2, 0
+Suppression d'un champs non existant --- txreact.DBF, SPARE1, , N, 2, 0
+Suppression d'un champs non existant --- txvar.DBF, REFCOUNTER, , N, 2, 0
+Suppression d'un champs non existant --- txvar.DBF, ASSOCIATE, , N, 2, 0
+Suppression d'un champs non existant --- txvar.DBF, SPARE1, , N, 2, 0
+Suppression d'un champs non existant --- twinding.DBF, REFCOUNTER, , N, 2, 0
+Suppression d'un champs non existant --- twinding.DBF, ASSOCIATE, , N, 2, 0
+Suppression d'un champs non existant --- twinding.DBF, SPARE1, , N, 2, 0
+
+==>> 23 July 2021  21:50:14
+
+Suppression d'un champs non existant --- bdef.DBF, REFCOUNTER, , N, 2, 0
+Suppression d'un champs non existant --- bdef.DBF, ASSOCIATE, , N, 2, 0
+Suppression d'un champs non existant --- bdef.DBF, SPARE1, , N, 2, 0
+Suppression d'un champs non existant --- bdef_grd.DBF, REFCOUNTER, , N, 2, 0
+Suppression d'un champs non existant --- bdef_grd.DBF, ASSOCIATE, , N, 2, 0
+Suppression d'un champs non existant --- bdef_grd.DBF, SPARE1, , N, 2, 0
+Suppression d'un champs non existant --- bmut.DBF, REFCOUNTER, , N, 2, 0
+Suppression d'un champs non existant --- bmut.DBF, ASSOCIATE, , N, 2, 0
+Suppression d'un champs non existant --- bmut.DBF, SPARE1, , N, 2, 0
+Suppression d'un champs non existant --- bmut_grd.DBF, REFCOUNTER, , N, 2, 0
+Suppression d'un champs non existant --- bmut_grd.DBF, ASSOCIATE, , N, 2, 0
+Suppression d'un champs non existant --- bmut_grd.DBF, SPARE1, , N, 2, 0
+Suppression d'un champs non existant --- brc.DBF, REFCOUNTER, , N, 2, 0
+Suppression d'un champs non existant --- brc.DBF, ASSOCIATE, , N, 2, 0
+Suppression d'un champs non existant --- brc.DBF, SPARE1, , N, 2, 0
+Suppression d'un champs non existant --- brc_grd.DBF, REFCOUNTER, , N, 2, 0
+Suppression d'un champs non existant --- brc_grd.DBF, ASSOCIATE, , N, 2, 0
+Suppression d'un champs non existant --- brc_grd.DBF, SPARE1, , N, 2, 0
+Suppression d'un champs non existant --- brlc.DBF, REFCOUNTER, , N, 2, 0
+Suppression d'un champs non existant --- brlc.DBF, ASSOCIATE, , N, 2, 0
+Suppression d'un champs non existant --- brlc.DBF, SPARE1, , N, 2, 0
+Suppression d'un champs non existant --- brlc_grd.DBF, REFCOUNTER, , N, 2, 0
+Suppression d'un champs non existant --- brlc_grd.DBF, ASSOCIATE, , N, 2, 0
+Suppression d'un champs non existant --- brlc_grd.DBF, SPARE1, , N, 2, 0
+Suppression d'un champs non existant --- busway.DBF, REFCOUNTER, , N, 2, 0
+Suppression d'un champs non existant --- busway.DBF, ASSOCIATE, , N, 2, 0
+Suppression d'un champs non existant --- busway.DBF, SPARE1, , N, 2, 0
+Suppression d'un champs non existant --- cable.DBF, INTRADIUS1, , N, 8, 5
+Suppression d'un champs non existant --- cable.DBF, INTRADIUS2, , N, 8, 5
+Suppression d'un champs non existant --- cable.DBF, CR2, , N, 13, 4
+Suppression d'un champs non existant --- cable.DBF, CGMR2, , N, 7, 5
+Suppression d'un champs non existant --- cable.DBF, CRADIUS2, , N, 6, 4
+Suppression d'un champs non existant --- cable.DBF, INSULATION, , C, 1, 0
+Suppression d'un champs non existant --- cable.DBF, CONDPERPHA, , N, 1, 0
+Suppression d'un champs non existant --- cable.DBF, D0, , N, 7, 3
+Suppression d'un champs non existant --- cable.DBF, REFCOUNTER, , N, 2, 0
+Suppression d'un champs non existant --- cable.DBF, REFCOUNT, , N, 2, 0
+Suppression d'un champs non existant --- cable.DBF, ASSOCIATE, , N, 2, 0
+Suppression d'un champs non existant --- cable.DBF, SPARE1, , N, 2, 0
+Suppression d'un champs non existant --- cable.DBF, FREQ, , 
+Suppression d'un champs non existant --- cable.DBF, PHASCODE, , 
+Suppression d'un champs non existant --- cable.DBF, CR1, , 
+Suppression d'un champs non existant --- cable.DBF, CGMR1, , 
+Suppression d'un champs non existant --- cable.DBF, CRADIUS1, , 
+Suppression d'un champs non existant --- cable.DBF, G, , 
+Modification d'un champs non existant --- cable.DBF, CONSTRUCT, , C, 20, 0
+Suppression d'un champs non existant --- cablext.DBF, REFCOUNTER, , N, 2, 0
+Suppression d'un champs non existant --- cablext.DBF, ASSOCIATE, , N, 2, 0
+Suppression d'un champs non existant --- cablext.DBF, SPARE1, , N, 2, 0
+Suppression d'un champs non existant --- Capac.DBF, REFCOUNTER, , N, 2, 0
+Suppression d'un champs non existant --- Capac.DBF, ASSOCIATE, , N, 2, 0
+Suppression d'un champs non existant --- Capac.DBF, SPARE1, , N, 2, 0
+Suppression d'un champs non existant --- cfilter.DBF, SAPRE1, , N, 2, 0
+Suppression d'un champs non existant --- cfilter.DBF, REFCOUNTER, , N, 2, 0
+Suppression d'un champs non existant --- cfilter.DBF, ASSOCIATE, , N, 2, 0
+Suppression d'un champs non existant --- cfilter.DBF, SPARE1, , N, 2, 0
+Suppression d'un champs non existant --- conduct.DBF, TAG, , L, 1, 0
+Suppression d'un champs non existant --- conduct.DBF, REFCOUNTER, , N, 2, 0
+Suppression d'un champs non existant --- conduct.DBF, ASSOCIATE, , N, 2, 0
+Suppression d'un champs non existant --- conduct.DBF, SPARE1, , N, 2, 0
+Suppression d'un champs non existant --- conv.DBF, REFCOUNTER, , N, 2, 0
+Suppression d'un champs non existant --- conv.DBF, ASSOCIATE, , N, 2, 0
+Suppression d'un champs non existant --- conv.DBF, SPARE1, , N, 2, 0
+Suppression d'un champs non existant --- curs_20.DBF, REFCOUNTER, , N, 2, 0
+Suppression d'un champs non existant --- curs_20.DBF, ASSOCIATE, , N, 2, 0
+Suppression d'un champs non existant --- curs_20.DBF, SPARE1, , N, 2, 0
+Suppression d'un champs non existant --- curs_arc.DBF, FP, , N, 13, 6
+Suppression d'un champs non existant --- curs_arc.DBF, S, , N, 13, 6
+Suppression d'un champs non existant --- curs_arc.DBF, V, , N, 13, 6
+Suppression d'un champs non existant --- curs_arc.DBF, REFCOUNTER, , N, 2, 0
+Suppression d'un champs non existant --- curs_arc.DBF, ASSOCIATE, , N, 2, 0
+Suppression d'un champs non existant --- curs_arc.DBF, SPARE1, , N, 2, 0
+Suppression d'un champs non existant --- curs_sf.DBF, REFCOUNTER, , N, 2, 0
+Suppression d'un champs non existant --- curs_sf.DBF, ASSOCIATE, , N, 2, 0
+Suppression d'un champs non existant --- curs_sf.DBF, SPARE1, , N, 2, 0
+Suppression d'un champs non existant --- curs_tbl.DBF, REFCOUNTER, , N, 2, 0
+Suppression d'un champs non existant --- curs_tbl.DBF, ASSOCIATE, , N, 2, 0
+Suppression d'un champs non existant --- curs_tbl.DBF, SPARE1, , N, 2, 0
+Suppression d'un champs non existant --- dcline.DBF, REFCOUNTER, , N, 2, 0
+Suppression d'un champs non existant --- dcline.DBF, ASSOCIATE, , N, 2, 0
+Suppression d'un champs non existant --- dcline.DBF, SPARE1, , N, 2, 0
+Suppression d'un champs non existant --- dtfilter.DBF, MVAR1, , N, 8, 3
+Suppression d'un champs non existant --- dtfilter.DBF, FREQ1, , N, 8, 3
+Suppression d'un champs non existant --- dtfilter.DBF, QF1, , N, 8, 3
+Suppression d'un champs non existant --- dtfilter.DBF, NOMIVOLT1, , N, 8, 3
+Suppression d'un champs non existant --- dtfilter.DBF, MVAR2, , N, 8, 3
+Suppression d'un champs non existant --- dtfilter.DBF, FREQ2, , N, 8, 3
+Suppression d'un champs non existant --- dtfilter.DBF, QF2, , N, 8, 3
+Suppression d'un champs non existant --- dtfilter.DBF, NOMIVOLT2, , N, 8, 3
+Suppression d'un champs non existant --- dtfilter.DBF, REFCOUNTER, , N, 2, 0
+Suppression d'un champs non existant --- dtfilter.DBF, ASSOCIATE, , N, 2, 0
+Suppression d'un champs non existant --- dtfilter.DBF, SPARE1, , N, 2, 0
+Suppression d'un champs non existant --- excitatr.DBF, REFCOUNTER, , N, 2, 0
+Suppression d'un champs non existant --- excitatr.DBF, ASSOCIATE, , N, 2, 0
+Suppression d'un champs non existant --- excitatr.DBF, SPARE1, , N, 2, 0
+Suppression d'un champs non existant --- fdrelay.DBF, REFCOUNTER, , N, 2, 0
+Suppression d'un champs non existant --- fdrelay.DBF, ASSOCIATE, , N, 2, 0
+Suppression d'un champs non existant --- fdrelay.DBF, SPARE1, , N, 2, 0
+Suppression d'un champs non existant --- Gener.DBF, REFCOUNTER, , N, 2, 0
+Suppression d'un champs non existant --- Gener.DBF, ASSOCIATE, , N, 2, 0
+Suppression d'un champs non existant --- Gener.DBF, SPARE1, , N, 2, 0
+Suppression d'un champs non existant --- Generext.DBF, XD, , N, 11, 5
+Suppression d'un champs non existant --- Generext.DBF, XDT, , N, 11, 5
+Suppression d'un champs non existant --- Generext.DBF, XDS, , N, 11, 5
+Suppression d'un champs non existant --- Generext.DBF, REFCOUNTER, , N, 2, 0
+Suppression d'un champs non existant --- Generext.DBF, ASSOCIATE, , N, 2, 0
+Suppression d'un champs non existant --- Generext.DBF, SPARE1, , N, 2, 0
+Suppression d'un champs non existant --- hpfilter.DBF, REFCOUNTER, , N, 2, 0
+Suppression d'un champs non existant --- hpfilter.DBF, ASSOCIATE, , N, 2, 0
+Suppression d'un champs non existant --- hpfilter.DBF, SPARE1, , N, 2, 0
+Suppression d'un champs non existant --- imprelay.DBF, REFCOUNTER, , N, 2, 0
+Suppression d'un champs non existant --- imprelay.DBF, ASSOCIATE, , N, 2, 0
+Suppression d'un champs non existant --- imprelay.DBF, SPARE1, , N, 2, 0
+Suppression d'un champs non existant --- Induct.DBF, REFCOUNTER, , N, 2, 0
+Suppression d'un champs non existant --- Induct.DBF, ASSOCIATE, , N, 2, 0
+Suppression d'un champs non existant --- Induct.DBF, SPARE1, , N, 2, 0
+Suppression d'un champs non existant --- Inductor.DBF, REFCOUNTER, , N, 2, 0
+Suppression d'un champs non existant --- Inductor.DBF, ASSOCIATE, , N, 2, 0
+Suppression d'un champs non existant --- Inductor.DBF, SPARE1, , N, 2, 0
+Suppression d'un champs non existant --- Inductxt.DBF, REFCOUNTER, , N, 2, 0
+Suppression d'un champs non existant --- Inductxt.DBF, ASSOCIATE, , N, 2, 0
+Suppression d'un champs non existant --- Inductxt.DBF, SPARE1, , N, 2, 0
+Suppression d'un champs non existant --- lfrelay.DBF, REFCOUNTER, , N, 2, 0
+Suppression d'un champs non existant --- lfrelay.DBF, ASSOCIATE, , N, 2, 0
+Suppression d'un champs non existant --- lfrelay.DBF, SPARE1, , N, 2, 0
+Suppression d'un champs non existant --- line.DBF, INTRADIUS1, , N, 8, 5
+Suppression d'un champs non existant --- line.DBF, INTRADIUS2, , N, 8, 5
+Suppression d'un champs non existant --- line.DBF, REFCOUNTER, , N, 2, 0
+Suppression d'un champs non existant --- line.DBF, ASSOCIATE, , N, 2, 0
+Suppression d'un champs non existant --- line.DBF, SPARE1, , N, 2, 0
+Suppression d'un champs non existant --- line.DBF, FREQ, , 
+Suppression d'un champs non existant --- line.DBF, PHASCODE, , 
+Suppression d'un champs non existant --- line.DBF, CR1, , 
+Suppression d'un champs non existant --- line.DBF, CGMR1, , 
+Suppression d'un champs non existant --- line.DBF, CRADIUS1, , 
+Suppression d'un champs non existant --- line.DBF, CR2, , 
+Suppression d'un champs non existant --- line.DBF, CGMR2, , 
+Suppression d'un champs non existant --- line.DBF, CRADIUS2, , 
+Suppression d'un champs non existant --- line.DBF, NEUTCODE, , 
+Suppression d'un champs non existant --- line.DBF, NFA, , 
+Suppression d'un champs non existant --- line.DBF, HORA, , 
+Suppression d'un champs non existant --- line.DBF, VERA, , 
+Suppression d'un champs non existant --- line.DBF, HORB, , 
+Suppression d'un champs non existant --- line.DBF, VERB, , 
+Suppression d'un champs non existant --- line.DBF, HORC, , 
+Suppression d'un champs non existant --- line.DBF, VERC, , 
+Suppression d'un champs non existant --- line.DBF, HORN, , 
+Suppression d'un champs non existant --- line.DBF, VERN, , 
+Suppression d'un champs non existant --- Linext.DBF, L, , N, 3, 0
+Suppression d'un champs non existant --- Linext.DBF, L0, , N, 6, 2
+Suppression d'un champs non existant --- Linext.DBF, C, , N, 8, 3
+Suppression d'un champs non existant --- Linext.DBF, C0, , N, 12, 6
+Suppression d'un champs non existant --- Linext.DBF, DTR0, , N, 8, 5
+Suppression d'un champs non existant --- Linext.DBF, DTR1, , N, 8, 5
+Suppression d'un champs non existant --- Linext.DBF, DTL0, , N, 12, 7
+Suppression d'un champs non existant --- Linext.DBF, DTL1, , N, 12, 7
+Suppression d'un champs non existant --- Linext.DBF, REFCOUNTER, , N, 2, 0
+Suppression d'un champs non existant --- Linext.DBF, ASSOCIATE, , N, 2, 0
+Suppression d'un champs non existant --- Linext.DBF, SPARE1, , N, 2, 0
+Suppression d'un champs non existant --- load.DBF, REFCOUNTER, , N, 2, 0
+Suppression d'un champs non existant --- load.DBF, ASSOCIATE, , N, 2, 0
+Suppression d'un champs non existant --- load.DBF, SPARE1, , N, 2, 0
+Suppression d'un champs non existant --- Loadext.DBF, REFCOUNTER, , N, 2, 0
+Suppression d'un champs non existant --- Loadext.DBF, ASSOCIATE, , N, 2, 0
+Suppression d'un champs non existant --- Loadext.DBF, SPARE1, , N, 2, 0
+Suppression d'un champs non existant --- lvrelay.DBF, REFCOUNTER, , N, 2, 0
+Suppression d'un champs non existant --- lvrelay.DBF, ASSOCIATE, , N, 2, 0
+Suppression d'un champs non existant --- lvrelay.DBF, SPARE1, , N, 2, 0
+Suppression d'un champs non existant --- psrelay.DBF, REFCOUNTER, , N, 2, 0
+Suppression d'un champs non existant --- psrelay.DBF, ASSOCIATE, , N, 2, 0
+Suppression d'un champs non existant --- psrelay.DBF, SPARE1, , N, 2, 0
+Suppression d'un champs non existant --- SReactor.DBF, REFCOUNTER, , N, 2, 0
+Suppression d'un champs non existant --- SReactor.DBF, ASSOCIATE, , N, 2, 0
+Suppression d'un champs non existant --- SReactor.DBF, SPARE1, , N, 2, 0
+Suppression d'un champs non existant --- stabil1.DBF, REFCOUNTER, , N, 2, 0
+Suppression d'un champs non existant --- stabil1.DBF, ASSOCIATE, , N, 2, 0
+Suppression d'un champs non existant --- stabil1.DBF, SPARE1, , N, 2, 0
+Suppression d'un champs non existant --- stabil2.DBF, REFCOUNTER, , N, 2, 0
+Suppression d'un champs non existant --- stabil2.DBF, ASSOCIATE, , N, 2, 0
+Suppression d'un champs non existant --- stabil2.DBF, SPARE1, , N, 2, 0
+Suppression d'un champs non existant --- stfilter.DBF, REFCOUNTER, , N, 2, 0
+Suppression d'un champs non existant --- stfilter.DBF, ASSOCIATE, , N, 2, 0
+Suppression d'un champs non existant --- stfilter.DBF, SPARE1, , N, 2, 0
+Suppression d'un champs non existant --- svc.DBF, ALPHA, , N, 6, 2
+Suppression d'un champs non existant --- svc.DBF, L, , N, 12, 6
+Suppression d'un champs non existant --- svc.DBF, VR, , N, 8, 3
+Suppression d'un champs non existant --- svc.DBF, QC, , N, 9, 5
+Suppression d'un champs non existant --- svc.DBF, FREQ, , N, 8, 3
+Suppression d'un champs non existant --- svc.DBF, REFCOUNTER, , N, 2, 0
+Suppression d'un champs non existant --- svc.DBF, ASSOCIATE, , N, 2, 0
+Suppression d'un champs non existant --- svc.DBF, SPARE1, , N, 2, 0
+Suppression d'un champs non existant --- svcext.DBF, VBUS, , N, 11, 5
+Suppression d'un champs non existant --- svcext.DBF, BSV, , N, 11, 5
+Suppression d'un champs non existant --- svcext.DBF, B0, , N, 11, 5
+Suppression d'un champs non existant --- svcext.DBF, VC0, , N, 11, 5
+Suppression d'un champs non existant --- svcext.DBF, REFCOUNTER, , N, 2, 0
+Suppression d'un champs non existant --- svcext.DBF, ASSOCIATE, , N, 2, 0
+Suppression d'un champs non existant --- svcext.DBF, SPARE1, , N, 2, 0
+Suppression d'un champs non existant --- sync.DBF, CLASS, , N, 1, 0
+Suppression d'un champs non existant --- sync.DBF, REFCOUNTER, , N, 2, 0
+Suppression d'un champs non existant --- sync.DBF, ASSOCIATE, , N, 2, 0
+Suppression d'un champs non existant --- sync.DBF, SPARE1, , N, 2, 0
+Suppression d'un champs non existant --- SyncExt.DBF, XD, , N, 11, 5
+Suppression d'un champs non existant --- SyncExt.DBF, XDS, , N, 11, 5
+Suppression d'un champs non existant --- SyncExt.DBF, REFCOUNTER, , N, 2, 0
+Suppression d'un champs non existant --- SyncExt.DBF, ASSOCIATE, , N, 2, 0
+Suppression d'un champs non existant --- SyncExt.DBF, SPARE1, , N, 2, 0
+Suppression d'un champs non existant --- turbine.DBF, REFCOUNTER, , N, 2, 0
+Suppression d'un champs non existant --- turbine.DBF, ASSOCIATE, , N, 2, 0
+Suppression d'un champs non existant --- turbine.DBF, SPARE1, , N, 2, 0
+Suppression d'un champs non existant --- txfix.DBF, REFCOUNTER, , N, 2, 0
+Suppression d'un champs non existant --- txfix.DBF, ASSOCIATE, , N, 2, 0
+Suppression d'un champs non existant --- txfix.DBF, SPARE1, , N, 2, 0
+Suppression d'un champs non existant --- TxfoPhZTbl.DBF, REFCOUNTER, , N, 2, 0
+Suppression d'un champs non existant --- TxfoPhZTbl.DBF, ASSOCIATE, , N, 2, 0
+Suppression d'un champs non existant --- TxfoPhZTbl.DBF, SPARE1, , N, 2, 0
+Suppression d'un champs non existant --- TxfoZTable.DBF, REFCOUNTER, , N, 2, 0
+Suppression d'un champs non existant --- TxfoZTable.DBF, ASSOCIATE, , N, 2, 0
+Suppression d'un champs non existant --- TxfoZTable.DBF, SPARE1, , N, 2, 0
+Suppression d'un champs non existant --- txground.DBF, REFCOUNTER, , N, 2, 0
+Suppression d'un champs non existant --- txground.DBF, ASSOCIATE, , N, 2, 0
+Suppression d'un champs non existant --- txground.DBF, SPARE1, , N, 2, 0
+Suppression d'un champs non existant --- txphase.DBF, REFCOUNTER, , N, 2, 0
+Suppression d'un champs non existant --- txphase.DBF, ASSOCIATE, , N, 2, 0
+Suppression d'un champs non existant --- txphase.DBF, SPARE1, , N, 2, 0
+Suppression d'un champs non existant --- txreact.DBF, REFCOUNTER, , N, 2, 0
+Suppression d'un champs non existant --- txreact.DBF, ASSOCIATE, , N, 2, 0
+Suppression d'un champs non existant --- txreact.DBF, SPARE1, , N, 2, 0
+Suppression d'un champs non existant --- txvar.DBF, REFCOUNTER, , N, 2, 0
+Suppression d'un champs non existant --- txvar.DBF, ASSOCIATE, , N, 2, 0
+Suppression d'un champs non existant --- txvar.DBF, SPARE1, , N, 2, 0
+Suppression d'un champs non existant --- twinding.DBF, REFCOUNTER, , N, 2, 0
+Suppression d'un champs non existant --- twinding.DBF, ASSOCIATE, , N, 2, 0
+Suppression d'un champs non existant --- twinding.DBF, SPARE1, , N, 2, 0
+
+==>> 24 July 2021  7:9:21
+
+Suppression d'un champs non existant --- bdef.DBF, REFCOUNTER, , N, 2, 0
+Suppression d'un champs non existant --- bdef.DBF, ASSOCIATE, , N, 2, 0
+Suppression d'un champs non existant --- bdef.DBF, SPARE1, , N, 2, 0
+Suppression d'un champs non existant --- bdef_grd.DBF, REFCOUNTER, , N, 2, 0
+Suppression d'un champs non existant --- bdef_grd.DBF, ASSOCIATE, , N, 2, 0
+Suppression d'un champs non existant --- bdef_grd.DBF, SPARE1, , N, 2, 0
+Suppression d'un champs non existant --- bmut.DBF, REFCOUNTER, , N, 2, 0
+Suppression d'un champs non existant --- bmut.DBF, ASSOCIATE, , N, 2, 0
+Suppression d'un champs non existant --- bmut.DBF, SPARE1, , N, 2, 0
+Suppression d'un champs non existant --- bmut_grd.DBF, REFCOUNTER, , N, 2, 0
+Suppression d'un champs non existant --- bmut_grd.DBF, ASSOCIATE, , N, 2, 0
+Suppression d'un champs non existant --- bmut_grd.DBF, SPARE1, , N, 2, 0
+Suppression d'un champs non existant --- brc.DBF, REFCOUNTER, , N, 2, 0
+Suppression d'un champs non existant --- brc.DBF, ASSOCIATE, , N, 2, 0
+Suppression d'un champs non existant --- brc.DBF, SPARE1, , N, 2, 0
+Suppression d'un champs non existant --- brc_grd.DBF, REFCOUNTER, , N, 2, 0
+Suppression d'un champs non existant --- brc_grd.DBF, ASSOCIATE, , N, 2, 0
+Suppression d'un champs non existant --- brc_grd.DBF, SPARE1, , N, 2, 0
+Suppression d'un champs non existant --- brlc.DBF, REFCOUNTER, , N, 2, 0
+Suppression d'un champs non existant --- brlc.DBF, ASSOCIATE, , N, 2, 0
+Suppression d'un champs non existant --- brlc.DBF, SPARE1, , N, 2, 0
+Suppression d'un champs non existant --- brlc_grd.DBF, REFCOUNTER, , N, 2, 0
+Suppression d'un champs non existant --- brlc_grd.DBF, ASSOCIATE, , N, 2, 0
+Suppression d'un champs non existant --- brlc_grd.DBF, SPARE1, , N, 2, 0
+Suppression d'un champs non existant --- busway.DBF, REFCOUNTER, , N, 2, 0
+Suppression d'un champs non existant --- busway.DBF, ASSOCIATE, , N, 2, 0
+Suppression d'un champs non existant --- busway.DBF, SPARE1, , N, 2, 0
+Suppression d'un champs non existant --- cable.DBF, INTRADIUS1, , N, 8, 5
+Suppression d'un champs non existant --- cable.DBF, INTRADIUS2, , N, 8, 5
+Suppression d'un champs non existant --- cable.DBF, CR2, , N, 13, 4
+Suppression d'un champs non existant --- cable.DBF, CGMR2, , N, 7, 5
+Suppression d'un champs non existant --- cable.DBF, CRADIUS2, , N, 6, 4
+Suppression d'un champs non existant --- cable.DBF, INSULATION, , C, 1, 0
+Suppression d'un champs non existant --- cable.DBF, CONDPERPHA, , N, 1, 0
+Suppression d'un champs non existant --- cable.DBF, D0, , N, 7, 3
+Suppression d'un champs non existant --- cable.DBF, REFCOUNTER, , N, 2, 0
+Suppression d'un champs non existant --- cable.DBF, REFCOUNT, , N, 2, 0
+Suppression d'un champs non existant --- cable.DBF, ASSOCIATE, , N, 2, 0
+Suppression d'un champs non existant --- cable.DBF, SPARE1, , N, 2, 0
+Suppression d'un champs non existant --- cable.DBF, FREQ, , 
+Suppression d'un champs non existant --- cable.DBF, PHASCODE, , 
+Suppression d'un champs non existant --- cable.DBF, CR1, , 
+Suppression d'un champs non existant --- cable.DBF, CGMR1, , 
+Suppression d'un champs non existant --- cable.DBF, CRADIUS1, , 
+Suppression d'un champs non existant --- cable.DBF, G, , 
+Modification d'un champs non existant --- cable.DBF, CONSTRUCT, , C, 20, 0
+Suppression d'un champs non existant --- cablext.DBF, REFCOUNTER, , N, 2, 0
+Suppression d'un champs non existant --- cablext.DBF, ASSOCIATE, , N, 2, 0
+Suppression d'un champs non existant --- cablext.DBF, SPARE1, , N, 2, 0
+Suppression d'un champs non existant --- Capac.DBF, REFCOUNTER, , N, 2, 0
+Suppression d'un champs non existant --- Capac.DBF, ASSOCIATE, , N, 2, 0
+Suppression d'un champs non existant --- Capac.DBF, SPARE1, , N, 2, 0
+Suppression d'un champs non existant --- cfilter.DBF, SAPRE1, , N, 2, 0
+Suppression d'un champs non existant --- cfilter.DBF, REFCOUNTER, , N, 2, 0
+Suppression d'un champs non existant --- cfilter.DBF, ASSOCIATE, , N, 2, 0
+Suppression d'un champs non existant --- cfilter.DBF, SPARE1, , N, 2, 0
+Suppression d'un champs non existant --- conduct.DBF, TAG, , L, 1, 0
+Suppression d'un champs non existant --- conduct.DBF, REFCOUNTER, , N, 2, 0
+Suppression d'un champs non existant --- conduct.DBF, ASSOCIATE, , N, 2, 0
+Suppression d'un champs non existant --- conduct.DBF, SPARE1, , N, 2, 0
+Suppression d'un champs non existant --- conv.DBF, REFCOUNTER, , N, 2, 0
+Suppression d'un champs non existant --- conv.DBF, ASSOCIATE, , N, 2, 0
+Suppression d'un champs non existant --- conv.DBF, SPARE1, , N, 2, 0
+Suppression d'un champs non existant --- curs_20.DBF, REFCOUNTER, , N, 2, 0
+Suppression d'un champs non existant --- curs_20.DBF, ASSOCIATE, , N, 2, 0
+Suppression d'un champs non existant --- curs_20.DBF, SPARE1, , N, 2, 0
+Suppression d'un champs non existant --- curs_arc.DBF, FP, , N, 13, 6
+Suppression d'un champs non existant --- curs_arc.DBF, S, , N, 13, 6
+Suppression d'un champs non existant --- curs_arc.DBF, V, , N, 13, 6
+Suppression d'un champs non existant --- curs_arc.DBF, REFCOUNTER, , N, 2, 0
+Suppression d'un champs non existant --- curs_arc.DBF, ASSOCIATE, , N, 2, 0
+Suppression d'un champs non existant --- curs_arc.DBF, SPARE1, , N, 2, 0
+Suppression d'un champs non existant --- curs_sf.DBF, REFCOUNTER, , N, 2, 0
+Suppression d'un champs non existant --- curs_sf.DBF, ASSOCIATE, , N, 2, 0
+Suppression d'un champs non existant --- curs_sf.DBF, SPARE1, , N, 2, 0
+Suppression d'un champs non existant --- curs_tbl.DBF, REFCOUNTER, , N, 2, 0
+Suppression d'un champs non existant --- curs_tbl.DBF, ASSOCIATE, , N, 2, 0
+Suppression d'un champs non existant --- curs_tbl.DBF, SPARE1, , N, 2, 0
+Suppression d'un champs non existant --- dcline.DBF, REFCOUNTER, , N, 2, 0
+Suppression d'un champs non existant --- dcline.DBF, ASSOCIATE, , N, 2, 0
+Suppression d'un champs non existant --- dcline.DBF, SPARE1, , N, 2, 0
+Suppression d'un champs non existant --- dtfilter.DBF, MVAR1, , N, 8, 3
+Suppression d'un champs non existant --- dtfilter.DBF, FREQ1, , N, 8, 3
+Suppression d'un champs non existant --- dtfilter.DBF, QF1, , N, 8, 3
+Suppression d'un champs non existant --- dtfilter.DBF, NOMIVOLT1, , N, 8, 3
+Suppression d'un champs non existant --- dtfilter.DBF, MVAR2, , N, 8, 3
+Suppression d'un champs non existant --- dtfilter.DBF, FREQ2, , N, 8, 3
+Suppression d'un champs non existant --- dtfilter.DBF, QF2, , N, 8, 3
+Suppression d'un champs non existant --- dtfilter.DBF, NOMIVOLT2, , N, 8, 3
+Suppression d'un champs non existant --- dtfilter.DBF, REFCOUNTER, , N, 2, 0
+Suppression d'un champs non existant --- dtfilter.DBF, ASSOCIATE, , N, 2, 0
+Suppression d'un champs non existant --- dtfilter.DBF, SPARE1, , N, 2, 0
+Suppression d'un champs non existant --- excitatr.DBF, REFCOUNTER, , N, 2, 0
+Suppression d'un champs non existant --- excitatr.DBF, ASSOCIATE, , N, 2, 0
+Suppression d'un champs non existant --- excitatr.DBF, SPARE1, , N, 2, 0
+Suppression d'un champs non existant --- fdrelay.DBF, REFCOUNTER, , N, 2, 0
+Suppression d'un champs non existant --- fdrelay.DBF, ASSOCIATE, , N, 2, 0
+Suppression d'un champs non existant --- fdrelay.DBF, SPARE1, , N, 2, 0
+Suppression d'un champs non existant --- Gener.DBF, REFCOUNTER, , N, 2, 0
+Suppression d'un champs non existant --- Gener.DBF, ASSOCIATE, , N, 2, 0
+Suppression d'un champs non existant --- Gener.DBF, SPARE1, , N, 2, 0
+Suppression d'un champs non existant --- Generext.DBF, XD, , N, 11, 5
+Suppression d'un champs non existant --- Generext.DBF, XDT, , N, 11, 5
+Suppression d'un champs non existant --- Generext.DBF, XDS, , N, 11, 5
+Suppression d'un champs non existant --- Generext.DBF, REFCOUNTER, , N, 2, 0
+Suppression d'un champs non existant --- Generext.DBF, ASSOCIATE, , N, 2, 0
+Suppression d'un champs non existant --- Generext.DBF, SPARE1, , N, 2, 0
+Suppression d'un champs non existant --- hpfilter.DBF, REFCOUNTER, , N, 2, 0
+Suppression d'un champs non existant --- hpfilter.DBF, ASSOCIATE, , N, 2, 0
+Suppression d'un champs non existant --- hpfilter.DBF, SPARE1, , N, 2, 0
+Suppression d'un champs non existant --- imprelay.DBF, REFCOUNTER, , N, 2, 0
+Suppression d'un champs non existant --- imprelay.DBF, ASSOCIATE, , N, 2, 0
+Suppression d'un champs non existant --- imprelay.DBF, SPARE1, , N, 2, 0
+Suppression d'un champs non existant --- Induct.DBF, REFCOUNTER, , N, 2, 0
+Suppression d'un champs non existant --- Induct.DBF, ASSOCIATE, , N, 2, 0
+Suppression d'un champs non existant --- Induct.DBF, SPARE1, , N, 2, 0
+Suppression d'un champs non existant --- Inductor.DBF, REFCOUNTER, , N, 2, 0
+Suppression d'un champs non existant --- Inductor.DBF, ASSOCIATE, , N, 2, 0
+Suppression d'un champs non existant --- Inductor.DBF, SPARE1, , N, 2, 0
+Suppression d'un champs non existant --- Inductxt.DBF, REFCOUNTER, , N, 2, 0
+Suppression d'un champs non existant --- Inductxt.DBF, ASSOCIATE, , N, 2, 0
+Suppression d'un champs non existant --- Inductxt.DBF, SPARE1, , N, 2, 0
+Suppression d'un champs non existant --- lfrelay.DBF, REFCOUNTER, , N, 2, 0
+Suppression d'un champs non existant --- lfrelay.DBF, ASSOCIATE, , N, 2, 0
+Suppression d'un champs non existant --- lfrelay.DBF, SPARE1, , N, 2, 0
+Suppression d'un champs non existant --- line.DBF, INTRADIUS1, , N, 8, 5
+Suppression d'un champs non existant --- line.DBF, INTRADIUS2, , N, 8, 5
+Suppression d'un champs non existant --- line.DBF, REFCOUNTER, , N, 2, 0
+Suppression d'un champs non existant --- line.DBF, ASSOCIATE, , N, 2, 0
+Suppression d'un champs non existant --- line.DBF, SPARE1, , N, 2, 0
+Suppression d'un champs non existant --- line.DBF, FREQ, , 
+Suppression d'un champs non existant --- line.DBF, PHASCODE, , 
+Suppression d'un champs non existant --- line.DBF, CR1, , 
+Suppression d'un champs non existant --- line.DBF, CGMR1, , 
+Suppression d'un champs non existant --- line.DBF, CRADIUS1, , 
+Suppression d'un champs non existant --- line.DBF, CR2, , 
+Suppression d'un champs non existant --- line.DBF, CGMR2, , 
+Suppression d'un champs non existant --- line.DBF, CRADIUS2, , 
+Suppression d'un champs non existant --- line.DBF, NEUTCODE, , 
+Suppression d'un champs non existant --- line.DBF, NFA, , 
+Suppression d'un champs non existant --- line.DBF, HORA, , 
+Suppression d'un champs non existant --- line.DBF, VERA, , 
+Suppression d'un champs non existant --- line.DBF, HORB, , 
+Suppression d'un champs non existant --- line.DBF, VERB, , 
+Suppression d'un champs non existant --- line.DBF, HORC, , 
+Suppression d'un champs non existant --- line.DBF, VERC, , 
+Suppression d'un champs non existant --- line.DBF, HORN, , 
+Suppression d'un champs non existant --- line.DBF, VERN, , 
+Suppression d'un champs non existant --- Linext.DBF, L, , N, 3, 0
+Suppression d'un champs non existant --- Linext.DBF, L0, , N, 6, 2
+Suppression d'un champs non existant --- Linext.DBF, C, , N, 8, 3
+Suppression d'un champs non existant --- Linext.DBF, C0, , N, 12, 6
+Suppression d'un champs non existant --- Linext.DBF, DTR0, , N, 8, 5
+Suppression d'un champs non existant --- Linext.DBF, DTR1, , N, 8, 5
+Suppression d'un champs non existant --- Linext.DBF, DTL0, , N, 12, 7
+Suppression d'un champs non existant --- Linext.DBF, DTL1, , N, 12, 7
+Suppression d'un champs non existant --- Linext.DBF, REFCOUNTER, , N, 2, 0
+Suppression d'un champs non existant --- Linext.DBF, ASSOCIATE, , N, 2, 0
+Suppression d'un champs non existant --- Linext.DBF, SPARE1, , N, 2, 0
+Suppression d'un champs non existant --- load.DBF, REFCOUNTER, , N, 2, 0
+Suppression d'un champs non existant --- load.DBF, ASSOCIATE, , N, 2, 0
+Suppression d'un champs non existant --- load.DBF, SPARE1, , N, 2, 0
+Suppression d'un champs non existant --- Loadext.DBF, REFCOUNTER, , N, 2, 0
+Suppression d'un champs non existant --- Loadext.DBF, ASSOCIATE, , N, 2, 0
+Suppression d'un champs non existant --- Loadext.DBF, SPARE1, , N, 2, 0
+Suppression d'un champs non existant --- lvrelay.DBF, REFCOUNTER, , N, 2, 0
+Suppression d'un champs non existant --- lvrelay.DBF, ASSOCIATE, , N, 2, 0
+Suppression d'un champs non existant --- lvrelay.DBF, SPARE1, , N, 2, 0
+Suppression d'un champs non existant --- psrelay.DBF, REFCOUNTER, , N, 2, 0
+Suppression d'un champs non existant --- psrelay.DBF, ASSOCIATE, , N, 2, 0
+Suppression d'un champs non existant --- psrelay.DBF, SPARE1, , N, 2, 0
+Suppression d'un champs non existant --- SReactor.DBF, REFCOUNTER, , N, 2, 0
+Suppression d'un champs non existant --- SReactor.DBF, ASSOCIATE, , N, 2, 0
+Suppression d'un champs non existant --- SReactor.DBF, SPARE1, , N, 2, 0
+Suppression d'un champs non existant --- stabil1.DBF, REFCOUNTER, , N, 2, 0
+Suppression d'un champs non existant --- stabil1.DBF, ASSOCIATE, , N, 2, 0
+Suppression d'un champs non existant --- stabil1.DBF, SPARE1, , N, 2, 0
+Suppression d'un champs non existant --- stabil2.DBF, REFCOUNTER, , N, 2, 0
+Suppression d'un champs non existant --- stabil2.DBF, ASSOCIATE, , N, 2, 0
+Suppression d'un champs non existant --- stabil2.DBF, SPARE1, , N, 2, 0
+Suppression d'un champs non existant --- stfilter.DBF, REFCOUNTER, , N, 2, 0
+Suppression d'un champs non existant --- stfilter.DBF, ASSOCIATE, , N, 2, 0
+Suppression d'un champs non existant --- stfilter.DBF, SPARE1, , N, 2, 0
+Suppression d'un champs non existant --- svc.DBF, ALPHA, , N, 6, 2
+Suppression d'un champs non existant --- svc.DBF, L, , N, 12, 6
+Suppression d'un champs non existant --- svc.DBF, VR, , N, 8, 3
+Suppression d'un champs non existant --- svc.DBF, QC, , N, 9, 5
+Suppression d'un champs non existant --- svc.DBF, FREQ, , N, 8, 3
+Suppression d'un champs non existant --- svc.DBF, REFCOUNTER, , N, 2, 0
+Suppression d'un champs non existant --- svc.DBF, ASSOCIATE, , N, 2, 0
+Suppression d'un champs non existant --- svc.DBF, SPARE1, , N, 2, 0
+Suppression d'un champs non existant --- svcext.DBF, VBUS, , N, 11, 5
+Suppression d'un champs non existant --- svcext.DBF, BSV, , N, 11, 5
+Suppression d'un champs non existant --- svcext.DBF, B0, , N, 11, 5
+Suppression d'un champs non existant --- svcext.DBF, VC0, , N, 11, 5
+Suppression d'un champs non existant --- svcext.DBF, REFCOUNTER, , N, 2, 0
+Suppression d'un champs non existant --- svcext.DBF, ASSOCIATE, , N, 2, 0
+Suppression d'un champs non existant --- svcext.DBF, SPARE1, , N, 2, 0
+Suppression d'un champs non existant --- sync.DBF, CLASS, , N, 1, 0
+Suppression d'un champs non existant --- sync.DBF, REFCOUNTER, , N, 2, 0
+Suppression d'un champs non existant --- sync.DBF, ASSOCIATE, , N, 2, 0
+Suppression d'un champs non existant --- sync.DBF, SPARE1, , N, 2, 0
+Suppression d'un champs non existant --- SyncExt.DBF, XD, , N, 11, 5
+Suppression d'un champs non existant --- SyncExt.DBF, XDS, , N, 11, 5
+Suppression d'un champs non existant --- SyncExt.DBF, REFCOUNTER, , N, 2, 0
+Suppression d'un champs non existant --- SyncExt.DBF, ASSOCIATE, , N, 2, 0
+Suppression d'un champs non existant --- SyncExt.DBF, SPARE1, , N, 2, 0
+Suppression d'un champs non existant --- turbine.DBF, REFCOUNTER, , N, 2, 0
+Suppression d'un champs non existant --- turbine.DBF, ASSOCIATE, , N, 2, 0
+Suppression d'un champs non existant --- turbine.DBF, SPARE1, , N, 2, 0
+Suppression d'un champs non existant --- txfix.DBF, REFCOUNTER, , N, 2, 0
+Suppression d'un champs non existant --- txfix.DBF, ASSOCIATE, , N, 2, 0
+Suppression d'un champs non existant --- txfix.DBF, SPARE1, , N, 2, 0
+Suppression d'un champs non existant --- TxfoPhZTbl.DBF, REFCOUNTER, , N, 2, 0
+Suppression d'un champs non existant --- TxfoPhZTbl.DBF, ASSOCIATE, , N, 2, 0
+Suppression d'un champs non existant --- TxfoPhZTbl.DBF, SPARE1, , N, 2, 0
+Suppression d'un champs non existant --- TxfoZTable.DBF, REFCOUNTER, , N, 2, 0
+Suppression d'un champs non existant --- TxfoZTable.DBF, ASSOCIATE, , N, 2, 0
+Suppression d'un champs non existant --- TxfoZTable.DBF, SPARE1, , N, 2, 0
+Suppression d'un champs non existant --- txground.DBF, REFCOUNTER, , N, 2, 0
+Suppression d'un champs non existant --- txground.DBF, ASSOCIATE, , N, 2, 0
+Suppression d'un champs non existant --- txground.DBF, SPARE1, , N, 2, 0
+Suppression d'un champs non existant --- txphase.DBF, REFCOUNTER, , N, 2, 0
+Suppression d'un champs non existant --- txphase.DBF, ASSOCIATE, , N, 2, 0
+Suppression d'un champs non existant --- txphase.DBF, SPARE1, , N, 2, 0
+Suppression d'un champs non existant --- txreact.DBF, REFCOUNTER, , N, 2, 0
+Suppression d'un champs non existant --- txreact.DBF, ASSOCIATE, , N, 2, 0
+Suppression d'un champs non existant --- txreact.DBF, SPARE1, , N, 2, 0
+Suppression d'un champs non existant --- txvar.DBF, REFCOUNTER, , N, 2, 0
+Suppression d'un champs non existant --- txvar.DBF, ASSOCIATE, , N, 2, 0
+Suppression d'un champs non existant --- txvar.DBF, SPARE1, , N, 2, 0
+Suppression d'un champs non existant --- twinding.DBF, REFCOUNTER, , N, 2, 0
+Suppression d'un champs non existant --- twinding.DBF, ASSOCIATE, , N, 2, 0
+Suppression d'un champs non existant --- twinding.DBF, SPARE1, , N, 2, 0
+
+==>> 24 July 2021  12:20:49
+
+Suppression d'un champs non existant --- bdef.DBF, REFCOUNTER, , N, 2, 0
+Suppression d'un champs non existant --- bdef.DBF, ASSOCIATE, , N, 2, 0
+Suppression d'un champs non existant --- bdef.DBF, SPARE1, , N, 2, 0
+Suppression d'un champs non existant --- bdef_grd.DBF, REFCOUNTER, , N, 2, 0
+Suppression d'un champs non existant --- bdef_grd.DBF, ASSOCIATE, , N, 2, 0
+Suppression d'un champs non existant --- bdef_grd.DBF, SPARE1, , N, 2, 0
+Suppression d'un champs non existant --- bmut.DBF, REFCOUNTER, , N, 2, 0
+Suppression d'un champs non existant --- bmut.DBF, ASSOCIATE, , N, 2, 0
+Suppression d'un champs non existant --- bmut.DBF, SPARE1, , N, 2, 0
+Suppression d'un champs non existant --- bmut_grd.DBF, REFCOUNTER, , N, 2, 0
+Suppression d'un champs non existant --- bmut_grd.DBF, ASSOCIATE, , N, 2, 0
+Suppression d'un champs non existant --- bmut_grd.DBF, SPARE1, , N, 2, 0
+Suppression d'un champs non existant --- brc.DBF, REFCOUNTER, , N, 2, 0
+Suppression d'un champs non existant --- brc.DBF, ASSOCIATE, , N, 2, 0
+Suppression d'un champs non existant --- brc.DBF, SPARE1, , N, 2, 0
+Suppression d'un champs non existant --- brc_grd.DBF, REFCOUNTER, , N, 2, 0
+Suppression d'un champs non existant --- brc_grd.DBF, ASSOCIATE, , N, 2, 0
+Suppression d'un champs non existant --- brc_grd.DBF, SPARE1, , N, 2, 0
+Suppression d'un champs non existant --- brlc.DBF, REFCOUNTER, , N, 2, 0
+Suppression d'un champs non existant --- brlc.DBF, ASSOCIATE, , N, 2, 0
+Suppression d'un champs non existant --- brlc.DBF, SPARE1, , N, 2, 0
+Suppression d'un champs non existant --- brlc_grd.DBF, REFCOUNTER, , N, 2, 0
+Suppression d'un champs non existant --- brlc_grd.DBF, ASSOCIATE, , N, 2, 0
+Suppression d'un champs non existant --- brlc_grd.DBF, SPARE1, , N, 2, 0
+Suppression d'un champs non existant --- busway.DBF, REFCOUNTER, , N, 2, 0
+Suppression d'un champs non existant --- busway.DBF, ASSOCIATE, , N, 2, 0
+Suppression d'un champs non existant --- busway.DBF, SPARE1, , N, 2, 0
+Suppression d'un champs non existant --- cable.DBF, INTRADIUS1, , N, 8, 5
+Suppression d'un champs non existant --- cable.DBF, INTRADIUS2, , N, 8, 5
+Suppression d'un champs non existant --- cable.DBF, CR2, , N, 13, 4
+Suppression d'un champs non existant --- cable.DBF, CGMR2, , N, 7, 5
+Suppression d'un champs non existant --- cable.DBF, CRADIUS2, , N, 6, 4
+Suppression d'un champs non existant --- cable.DBF, INSULATION, , C, 1, 0
+Suppression d'un champs non existant --- cable.DBF, CONDPERPHA, , N, 1, 0
+Suppression d'un champs non existant --- cable.DBF, D0, , N, 7, 3
+Suppression d'un champs non existant --- cable.DBF, REFCOUNTER, , N, 2, 0
+Suppression d'un champs non existant --- cable.DBF, REFCOUNT, , N, 2, 0
+Suppression d'un champs non existant --- cable.DBF, ASSOCIATE, , N, 2, 0
+Suppression d'un champs non existant --- cable.DBF, SPARE1, , N, 2, 0
+Suppression d'un champs non existant --- cable.DBF, FREQ, , 
+Suppression d'un champs non existant --- cable.DBF, PHASCODE, , 
+Suppression d'un champs non existant --- cable.DBF, CR1, , 
+Suppression d'un champs non existant --- cable.DBF, CGMR1, , 
+Suppression d'un champs non existant --- cable.DBF, CRADIUS1, , 
+Suppression d'un champs non existant --- cable.DBF, G, , 
+Modification d'un champs non existant --- cable.DBF, CONSTRUCT, , C, 20, 0
+Suppression d'un champs non existant --- cablext.DBF, REFCOUNTER, , N, 2, 0
+Suppression d'un champs non existant --- cablext.DBF, ASSOCIATE, , N, 2, 0
+Suppression d'un champs non existant --- cablext.DBF, SPARE1, , N, 2, 0
+Suppression d'un champs non existant --- Capac.DBF, REFCOUNTER, , N, 2, 0
+Suppression d'un champs non existant --- Capac.DBF, ASSOCIATE, , N, 2, 0
+Suppression d'un champs non existant --- Capac.DBF, SPARE1, , N, 2, 0
+Suppression d'un champs non existant --- cfilter.DBF, SAPRE1, , N, 2, 0
+Suppression d'un champs non existant --- cfilter.DBF, REFCOUNTER, , N, 2, 0
+Suppression d'un champs non existant --- cfilter.DBF, ASSOCIATE, , N, 2, 0
+Suppression d'un champs non existant --- cfilter.DBF, SPARE1, , N, 2, 0
+Suppression d'un champs non existant --- conduct.DBF, TAG, , L, 1, 0
+Suppression d'un champs non existant --- conduct.DBF, REFCOUNTER, , N, 2, 0
+Suppression d'un champs non existant --- conduct.DBF, ASSOCIATE, , N, 2, 0
+Suppression d'un champs non existant --- conduct.DBF, SPARE1, , N, 2, 0
+Suppression d'un champs non existant --- conv.DBF, REFCOUNTER, , N, 2, 0
+Suppression d'un champs non existant --- conv.DBF, ASSOCIATE, , N, 2, 0
+Suppression d'un champs non existant --- conv.DBF, SPARE1, , N, 2, 0
+Suppression d'un champs non existant --- curs_20.DBF, REFCOUNTER, , N, 2, 0
+Suppression d'un champs non existant --- curs_20.DBF, ASSOCIATE, , N, 2, 0
+Suppression d'un champs non existant --- curs_20.DBF, SPARE1, , N, 2, 0
+Suppression d'un champs non existant --- curs_arc.DBF, FP, , N, 13, 6
+Suppression d'un champs non existant --- curs_arc.DBF, S, , N, 13, 6
+Suppression d'un champs non existant --- curs_arc.DBF, V, , N, 13, 6
+Suppression d'un champs non existant --- curs_arc.DBF, REFCOUNTER, , N, 2, 0
+Suppression d'un champs non existant --- curs_arc.DBF, ASSOCIATE, , N, 2, 0
+Suppression d'un champs non existant --- curs_arc.DBF, SPARE1, , N, 2, 0
+Suppression d'un champs non existant --- curs_sf.DBF, REFCOUNTER, , N, 2, 0
+Suppression d'un champs non existant --- curs_sf.DBF, ASSOCIATE, , N, 2, 0
+Suppression d'un champs non existant --- curs_sf.DBF, SPARE1, , N, 2, 0
+Suppression d'un champs non existant --- curs_tbl.DBF, REFCOUNTER, , N, 2, 0
+Suppression d'un champs non existant --- curs_tbl.DBF, ASSOCIATE, , N, 2, 0
+Suppression d'un champs non existant --- curs_tbl.DBF, SPARE1, , N, 2, 0
+Suppression d'un champs non existant --- dcline.DBF, REFCOUNTER, , N, 2, 0
+Suppression d'un champs non existant --- dcline.DBF, ASSOCIATE, , N, 2, 0
+Suppression d'un champs non existant --- dcline.DBF, SPARE1, , N, 2, 0
+Suppression d'un champs non existant --- dtfilter.DBF, MVAR1, , N, 8, 3
+Suppression d'un champs non existant --- dtfilter.DBF, FREQ1, , N, 8, 3
+Suppression d'un champs non existant --- dtfilter.DBF, QF1, , N, 8, 3
+Suppression d'un champs non existant --- dtfilter.DBF, NOMIVOLT1, , N, 8, 3
+Suppression d'un champs non existant --- dtfilter.DBF, MVAR2, , N, 8, 3
+Suppression d'un champs non existant --- dtfilter.DBF, FREQ2, , N, 8, 3
+Suppression d'un champs non existant --- dtfilter.DBF, QF2, , N, 8, 3
+Suppression d'un champs non existant --- dtfilter.DBF, NOMIVOLT2, , N, 8, 3
+Suppression d'un champs non existant --- dtfilter.DBF, REFCOUNTER, , N, 2, 0
+Suppression d'un champs non existant --- dtfilter.DBF, ASSOCIATE, , N, 2, 0
+Suppression d'un champs non existant --- dtfilter.DBF, SPARE1, , N, 2, 0
+Suppression d'un champs non existant --- excitatr.DBF, REFCOUNTER, , N, 2, 0
+Suppression d'un champs non existant --- excitatr.DBF, ASSOCIATE, , N, 2, 0
+Suppression d'un champs non existant --- excitatr.DBF, SPARE1, , N, 2, 0
+Suppression d'un champs non existant --- fdrelay.DBF, REFCOUNTER, , N, 2, 0
+Suppression d'un champs non existant --- fdrelay.DBF, ASSOCIATE, , N, 2, 0
+Suppression d'un champs non existant --- fdrelay.DBF, SPARE1, , N, 2, 0
+Suppression d'un champs non existant --- Gener.DBF, REFCOUNTER, , N, 2, 0
+Suppression d'un champs non existant --- Gener.DBF, ASSOCIATE, , N, 2, 0
+Suppression d'un champs non existant --- Gener.DBF, SPARE1, , N, 2, 0
+Suppression d'un champs non existant --- Generext.DBF, XD, , N, 11, 5
+Suppression d'un champs non existant --- Generext.DBF, XDT, , N, 11, 5
+Suppression d'un champs non existant --- Generext.DBF, XDS, , N, 11, 5
+Suppression d'un champs non existant --- Generext.DBF, REFCOUNTER, , N, 2, 0
+Suppression d'un champs non existant --- Generext.DBF, ASSOCIATE, , N, 2, 0
+Suppression d'un champs non existant --- Generext.DBF, SPARE1, , N, 2, 0
+Suppression d'un champs non existant --- hpfilter.DBF, REFCOUNTER, , N, 2, 0
+Suppression d'un champs non existant --- hpfilter.DBF, ASSOCIATE, , N, 2, 0
+Suppression d'un champs non existant --- hpfilter.DBF, SPARE1, , N, 2, 0
+Suppression d'un champs non existant --- imprelay.DBF, REFCOUNTER, , N, 2, 0
+Suppression d'un champs non existant --- imprelay.DBF, ASSOCIATE, , N, 2, 0
+Suppression d'un champs non existant --- imprelay.DBF, SPARE1, , N, 2, 0
+Suppression d'un champs non existant --- Induct.DBF, REFCOUNTER, , N, 2, 0
+Suppression d'un champs non existant --- Induct.DBF, ASSOCIATE, , N, 2, 0
+Suppression d'un champs non existant --- Induct.DBF, SPARE1, , N, 2, 0
+Suppression d'un champs non existant --- Inductor.DBF, REFCOUNTER, , N, 2, 0
+Suppression d'un champs non existant --- Inductor.DBF, ASSOCIATE, , N, 2, 0
+Suppression d'un champs non existant --- Inductor.DBF, SPARE1, , N, 2, 0
+Suppression d'un champs non existant --- Inductxt.DBF, REFCOUNTER, , N, 2, 0
+Suppression d'un champs non existant --- Inductxt.DBF, ASSOCIATE, , N, 2, 0
+Suppression d'un champs non existant --- Inductxt.DBF, SPARE1, , N, 2, 0
+Suppression d'un champs non existant --- lfrelay.DBF, REFCOUNTER, , N, 2, 0
+Suppression d'un champs non existant --- lfrelay.DBF, ASSOCIATE, , N, 2, 0
+Suppression d'un champs non existant --- lfrelay.DBF, SPARE1, , N, 2, 0
+Suppression d'un champs non existant --- line.DBF, INTRADIUS1, , N, 8, 5
+Suppression d'un champs non existant --- line.DBF, INTRADIUS2, , N, 8, 5
+Suppression d'un champs non existant --- line.DBF, REFCOUNTER, , N, 2, 0
+Suppression d'un champs non existant --- line.DBF, ASSOCIATE, , N, 2, 0
+Suppression d'un champs non existant --- line.DBF, SPARE1, , N, 2, 0
+Suppression d'un champs non existant --- line.DBF, FREQ, , 
+Suppression d'un champs non existant --- line.DBF, PHASCODE, , 
+Suppression d'un champs non existant --- line.DBF, CR1, , 
+Suppression d'un champs non existant --- line.DBF, CGMR1, , 
+Suppression d'un champs non existant --- line.DBF, CRADIUS1, , 
+Suppression d'un champs non existant --- line.DBF, CR2, , 
+Suppression d'un champs non existant --- line.DBF, CGMR2, , 
+Suppression d'un champs non existant --- line.DBF, CRADIUS2, , 
+Suppression d'un champs non existant --- line.DBF, NEUTCODE, , 
+Suppression d'un champs non existant --- line.DBF, NFA, , 
+Suppression d'un champs non existant --- line.DBF, HORA, , 
+Suppression d'un champs non existant --- line.DBF, VERA, , 
+Suppression d'un champs non existant --- line.DBF, HORB, , 
+Suppression d'un champs non existant --- line.DBF, VERB, , 
+Suppression d'un champs non existant --- line.DBF, HORC, , 
+Suppression d'un champs non existant --- line.DBF, VERC, , 
+Suppression d'un champs non existant --- line.DBF, HORN, , 
+Suppression d'un champs non existant --- line.DBF, VERN, , 
+Suppression d'un champs non existant --- Linext.DBF, L, , N, 3, 0
+Suppression d'un champs non existant --- Linext.DBF, L0, , N, 6, 2
+Suppression d'un champs non existant --- Linext.DBF, C, , N, 8, 3
+Suppression d'un champs non existant --- Linext.DBF, C0, , N, 12, 6
+Suppression d'un champs non existant --- Linext.DBF, DTR0, , N, 8, 5
+Suppression d'un champs non existant --- Linext.DBF, DTR1, , N, 8, 5
+Suppression d'un champs non existant --- Linext.DBF, DTL0, , N, 12, 7
+Suppression d'un champs non existant --- Linext.DBF, DTL1, , N, 12, 7
+Suppression d'un champs non existant --- Linext.DBF, REFCOUNTER, , N, 2, 0
+Suppression d'un champs non existant --- Linext.DBF, ASSOCIATE, , N, 2, 0
+Suppression d'un champs non existant --- Linext.DBF, SPARE1, , N, 2, 0
+Suppression d'un champs non existant --- load.DBF, REFCOUNTER, , N, 2, 0
+Suppression d'un champs non existant --- load.DBF, ASSOCIATE, , N, 2, 0
+Suppression d'un champs non existant --- load.DBF, SPARE1, , N, 2, 0
+Suppression d'un champs non existant --- Loadext.DBF, REFCOUNTER, , N, 2, 0
+Suppression d'un champs non existant --- Loadext.DBF, ASSOCIATE, , N, 2, 0
+Suppression d'un champs non existant --- Loadext.DBF, SPARE1, , N, 2, 0
+Suppression d'un champs non existant --- lvrelay.DBF, REFCOUNTER, , N, 2, 0
+Suppression d'un champs non existant --- lvrelay.DBF, ASSOCIATE, , N, 2, 0
+Suppression d'un champs non existant --- lvrelay.DBF, SPARE1, , N, 2, 0
+Suppression d'un champs non existant --- psrelay.DBF, REFCOUNTER, , N, 2, 0
+Suppression d'un champs non existant --- psrelay.DBF, ASSOCIATE, , N, 2, 0
+Suppression d'un champs non existant --- psrelay.DBF, SPARE1, , N, 2, 0
+Suppression d'un champs non existant --- SReactor.DBF, REFCOUNTER, , N, 2, 0
+Suppression d'un champs non existant --- SReactor.DBF, ASSOCIATE, , N, 2, 0
+Suppression d'un champs non existant --- SReactor.DBF, SPARE1, , N, 2, 0
+Suppression d'un champs non existant --- stabil1.DBF, REFCOUNTER, , N, 2, 0
+Suppression d'un champs non existant --- stabil1.DBF, ASSOCIATE, , N, 2, 0
+Suppression d'un champs non existant --- stabil1.DBF, SPARE1, , N, 2, 0
+Suppression d'un champs non existant --- stabil2.DBF, REFCOUNTER, , N, 2, 0
+Suppression d'un champs non existant --- stabil2.DBF, ASSOCIATE, , N, 2, 0
+Suppression d'un champs non existant --- stabil2.DBF, SPARE1, , N, 2, 0
+Suppression d'un champs non existant --- stfilter.DBF, REFCOUNTER, , N, 2, 0
+Suppression d'un champs non existant --- stfilter.DBF, ASSOCIATE, , N, 2, 0
+Suppression d'un champs non existant --- stfilter.DBF, SPARE1, , N, 2, 0
+Suppression d'un champs non existant --- svc.DBF, ALPHA, , N, 6, 2
+Suppression d'un champs non existant --- svc.DBF, L, , N, 12, 6
+Suppression d'un champs non existant --- svc.DBF, VR, , N, 8, 3
+Suppression d'un champs non existant --- svc.DBF, QC, , N, 9, 5
+Suppression d'un champs non existant --- svc.DBF, FREQ, , N, 8, 3
+Suppression d'un champs non existant --- svc.DBF, REFCOUNTER, , N, 2, 0
+Suppression d'un champs non existant --- svc.DBF, ASSOCIATE, , N, 2, 0
+Suppression d'un champs non existant --- svc.DBF, SPARE1, , N, 2, 0
+Suppression d'un champs non existant --- svcext.DBF, VBUS, , N, 11, 5
+Suppression d'un champs non existant --- svcext.DBF, BSV, , N, 11, 5
+Suppression d'un champs non existant --- svcext.DBF, B0, , N, 11, 5
+Suppression d'un champs non existant --- svcext.DBF, VC0, , N, 11, 5
+Suppression d'un champs non existant --- svcext.DBF, REFCOUNTER, , N, 2, 0
+Suppression d'un champs non existant --- svcext.DBF, ASSOCIATE, , N, 2, 0
+Suppression d'un champs non existant --- svcext.DBF, SPARE1, , N, 2, 0
+Suppression d'un champs non existant --- sync.DBF, CLASS, , N, 1, 0
+Suppression d'un champs non existant --- sync.DBF, REFCOUNTER, , N, 2, 0
+Suppression d'un champs non existant --- sync.DBF, ASSOCIATE, , N, 2, 0
+Suppression d'un champs non existant --- sync.DBF, SPARE1, , N, 2, 0
+Suppression d'un champs non existant --- SyncExt.DBF, XD, , N, 11, 5
+Suppression d'un champs non existant --- SyncExt.DBF, XDS, , N, 11, 5
+Suppression d'un champs non existant --- SyncExt.DBF, REFCOUNTER, , N, 2, 0
+Suppression d'un champs non existant --- SyncExt.DBF, ASSOCIATE, , N, 2, 0
+Suppression d'un champs non existant --- SyncExt.DBF, SPARE1, , N, 2, 0
+Suppression d'un champs non existant --- turbine.DBF, REFCOUNTER, , N, 2, 0
+Suppression d'un champs non existant --- turbine.DBF, ASSOCIATE, , N, 2, 0
+Suppression d'un champs non existant --- turbine.DBF, SPARE1, , N, 2, 0
+Suppression d'un champs non existant --- txfix.DBF, REFCOUNTER, , N, 2, 0
+Suppression d'un champs non existant --- txfix.DBF, ASSOCIATE, , N, 2, 0
+Suppression d'un champs non existant --- txfix.DBF, SPARE1, , N, 2, 0
+Suppression d'un champs non existant --- TxfoPhZTbl.DBF, REFCOUNTER, , N, 2, 0
+Suppression d'un champs non existant --- TxfoPhZTbl.DBF, ASSOCIATE, , N, 2, 0
+Suppression d'un champs non existant --- TxfoPhZTbl.DBF, SPARE1, , N, 2, 0
+Suppression d'un champs non existant --- TxfoZTable.DBF, REFCOUNTER, , N, 2, 0
+Suppression d'un champs non existant --- TxfoZTable.DBF, ASSOCIATE, , N, 2, 0
+Suppression d'un champs non existant --- TxfoZTable.DBF, SPARE1, , N, 2, 0
+Suppression d'un champs non existant --- txground.DBF, REFCOUNTER, , N, 2, 0
+Suppression d'un champs non existant --- txground.DBF, ASSOCIATE, , N, 2, 0
+Suppression d'un champs non existant --- txground.DBF, SPARE1, , N, 2, 0
+Suppression d'un champs non existant --- txphase.DBF, REFCOUNTER, , N, 2, 0
+Suppression d'un champs non existant --- txphase.DBF, ASSOCIATE, , N, 2, 0
+Suppression d'un champs non existant --- txphase.DBF, SPARE1, , N, 2, 0
+Suppression d'un champs non existant --- txreact.DBF, REFCOUNTER, , N, 2, 0
+Suppression d'un champs non existant --- txreact.DBF, ASSOCIATE, , N, 2, 0
+Suppression d'un champs non existant --- txreact.DBF, SPARE1, , N, 2, 0
+Suppression d'un champs non existant --- txvar.DBF, REFCOUNTER, , N, 2, 0
+Suppression d'un champs non existant --- txvar.DBF, ASSOCIATE, , N, 2, 0
+Suppression d'un champs non existant --- txvar.DBF, SPARE1, , N, 2, 0
+Suppression d'un champs non existant --- twinding.DBF, REFCOUNTER, , N, 2, 0
+Suppression d'un champs non existant --- twinding.DBF, ASSOCIATE, , N, 2, 0
+Suppression d'un champs non existant --- twinding.DBF, SPARE1, , N, 2, 0
