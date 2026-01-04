@@ -42,9 +42,9 @@ The study analyzes the base case system and then investigates the effects of int
 
 
 
-&nbsp; * HVDC line between inverter and rectifier buses
+    &nbsp; * HVDC line between inverter and rectifier buses
 
-&nbsp; * TCUL (Tap-Changing Under Load) transformers
+    &nbsp; * TCUL (Tap-Changing Under Load) transformers
 
 * **Industrial Load:**
 
