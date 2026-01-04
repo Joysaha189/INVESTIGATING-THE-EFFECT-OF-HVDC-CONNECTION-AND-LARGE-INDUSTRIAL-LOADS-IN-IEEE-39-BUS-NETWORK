@@ -20,7 +20,7 @@ The study analyzes the base case system and then investigates the effects of int
 
 * **Industrial Load Modeling:** Addition of large induction motor loads to represent industrial demand.
 
-* **Abnormality Identification:\*\* Detection of voltage violations, line overloads, transformer overloading, and generator reactive power limit violations.
+* **Abnormality Identification:** Detection of voltage violations, line overloads, transformer overloading, and generator reactive power limit violations.
 
 * **Corrective Measures:** Use of SVCs, shunt capacitors, generation rescheduling, and line rating adjustments.
 
