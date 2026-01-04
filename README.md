@@ -1,0 +1,2 @@
+# -INVESTIGATING-THE-EFFECT-OF-HVDC-CONNECTION-AND-LARGE-INDUSTRIAL-LOADS-IN-IEEE-39-BUS-NETWORK
+Load flow analysis of the IEEE 39-bus (10-machine New England) power system using CYMEPSAF at 50 Hz. Base-case study followed by integration of an HVDC link and industrial induction motor load, analyzing resulting abnormalities and applying corrective devices while respecting practical equipment loading limits.
