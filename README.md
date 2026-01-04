@@ -50,7 +50,7 @@ The study analyzes the base case system and then investigates the effects of int
 
     &nbsp; * Ten induction motors (100 MVA each) connected at Bus 23
 
-* **Reactive Power Compensation:\*\*
+* **Reactive Power Compensation:**
 
     &nbsp; * Static VAR Compensator (SVC)
 
